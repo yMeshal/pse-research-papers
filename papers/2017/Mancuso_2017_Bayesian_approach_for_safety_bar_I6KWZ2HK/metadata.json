@@ -1,0 +1,55 @@
+{
+  "title": "Bayesian approach for safety barrier portfolio optimization",
+  "itemType": "conferencePaper",
+  "creators": [
+    {
+      "firstName": "A.",
+      "lastName": "Mancuso",
+      "creatorType": "editor"
+    },
+    {
+      "firstName": "Michele",
+      "lastName": "Compare",
+      "creatorType": "editor"
+    },
+    {
+      "firstName": "Ahti",
+      "lastName": "Salo",
+      "creatorType": "editor"
+    },
+    {
+      "firstName": "Enrico",
+      "lastName": "Zio",
+      "creatorType": "editor"
+    }
+  ],
+  "date": "2017",
+  "language": "eng",
+  "publisher": "CRC Press",
+  "place": "Glasgow, United Kingdom",
+  "conferenceName": "European Safety and Reliability Conference",
+  "proceedingsTitle": "Proceedings of ESREL 2016",
+  "zoteroItemKey": "I6KWZ2HK",
+  "decodedTitle": "Bayesian approach for safety barrier portfolio optimization",
+  "year": 2017,
+  "tags": [],
+  "sourceCollections": [
+    {
+      "key": "PTATD5DB",
+      "pathNames": [
+        "Export-to-github"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "filename": "Mancuso_2017_Bayesian_approach_for_safety_bar_I6KWZ2HK.pdf",
+      "attachmentKey": "L2FAEEBL",
+      "attachmentTitle": "PDF",
+      "originalFilename": "Walls et al. - 2017 - Risk, Reliability and Safety Proceedings of ESREL 2016 (Glasgow, Scotland, 25-29 September 2016)$fe.pdf",
+      "contentType": "application/pdf",
+      "bytes": 1278311,
+      "sha256": "46a0df3f056f0bcf05cf582865e7b15474c8c9eb4eedd045cb44db85c2e1425b"
+    }
+  ]
+}

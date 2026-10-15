@@ -50,6 +50,8 @@ Bibliographic item types are retained, including theses and conference papers. F
 | 2014 | Edwin Wibisono | Model Based Approach To Identify Optimal System Structures and Maintenance Policies for Safety Interlocks with Time-Varying Failure Rates | journalArticle | [Metadata](papers/2014/Wibisono_2014_Model_Based_Approach_To_Identify_CII5FLRL/metadata.json) · [PDF](papers/2014/Wibisono_2014_Model_Based_Approach_To_Identify_CII5FLRL/Wibisono_2014_Model_Based_Approach_To_Identify_CII5FLRL.pdf) |
 | 2015 | Antonio Eduardo Bier Longhi | Multiobjective optimization of strategies for operation and testing of low-demand safety instrumented systems using a genetic algorithm and fault trees | journalArticle | [Metadata](papers/2015/Longhi_2015_Multiobjective_optimization_of_s_MMBVNZLI/metadata.json) · [PDF](papers/2015/Longhi_2015_Multiobjective_optimization_of_s_MMBVNZLI/Longhi_2015_Multiobjective_optimization_of_s_MMBVNZLI.pdf) |
 | 2016 | Chandler E. Kemp | Comparing Natural Gas Leakage Detection Technologies Using an Open-Source “Virtual Gas Field” Simulator | journalArticle | [Metadata](papers/2016/Kemp_2016_Comparing_Natural_Gas_Leakage_De_YX8V9QEQ/metadata.json) · [PDF](papers/2016/Kemp_2016_Comparing_Natural_Gas_Leakage_De_YX8V9QEQ/Kemp_2016_Comparing_Natural_Gas_Leakage_De_YX8V9QEQ.pdf) |
+| 2016 | Yixin Ye | MINLP models for optimizing availability in chemical plants with serial structure | report | [Metadata](papers/2016/Ye_2016_MINLP_models_for_optimizing_avai_KC6K37PL/metadata.json) |
+| 2017 |  | Bayesian approach for safety barrier portfolio optimization | conferencePaper | [Metadata](papers/2017/Mancuso_2017_Bayesian_approach_for_safety_bar_I6KWZ2HK/metadata.json) · [PDF](papers/2017/Mancuso_2017_Bayesian_approach_for_safety_bar_I6KWZ2HK/Mancuso_2017_Bayesian_approach_for_safety_bar_I6KWZ2HK.pdf) |
 | 2017 | A. Mancuso | Portfolio optimization of safety measures for reducing risks in nuclear systems | journalArticle | [Metadata](papers/2017/Mancuso_2017_Portfolio_optimization_of_safety_39IS5MZL/metadata.json) · [PDF](papers/2017/Mancuso_2017_Portfolio_optimization_of_safety_39IS5MZL/Mancuso_2017_Portfolio_optimization_of_safety_39IS5MZL.pdf) |
 | 2017 | Antti Toppila | Selection of risk reduction portfolios under interval-valued probabilities | journalArticle | [Metadata](papers/2017/Toppila_2017_Selection_of_risk_reduction_port_EG6TAQUL/metadata.json) · [PDF](papers/2017/Toppila_2017_Selection_of_risk_reduction_port_EG6TAQUL/Toppila_2017_Selection_of_risk_reduction_port_EG6TAQUL.pdf) |
 | 2018 | Lars Hellemo | Decision-dependent probabilities in stochastic programs with recourse | journalArticle | [Metadata](papers/2018/Hellemo_2018_Decision_dependent_probabilities_ZGG84P7I/metadata.json) · [PDF](papers/2018/Hellemo_2018_Decision_dependent_probabilities_ZGG84P7I/Hellemo_2018_Decision_dependent_probabilities_ZGG84P7I.pdf) |
@@ -71,10 +73,14 @@ Bibliographic item types are retained, including theses and conference papers. F
 
 ## Export integrity
 
-52 bibliographic records; 52 PDFs. Every PDF copy was verified against its source with SHA-256.
+54 bibliographic records; 53 PDFs. Every PDF copy was verified against its source with SHA-256.
 
 Zotero originals were not moved, renamed or modified. Local storage paths, personal notes, annotations and authentication credentials are excluded. Bibliographic abstracts and tags are included when available.
 
 Identical files and duplicate bibliographic records are retained rather than silently discarded; item keys distinguish them.
 
 Publication metadata is preserved as supplied by Zotero. Missing bibliographic fields are left absent rather than guessed.
+
+### Unavailable attachments
+
+- {"itemKey": "KC6K37PL", "title": "MINLP models for optimizing availability in chemical plants with serial structure", "reason": "No PDF attachment in Zotero"}
