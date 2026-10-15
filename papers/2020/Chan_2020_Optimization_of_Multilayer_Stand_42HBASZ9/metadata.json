@@ -1,0 +1,59 @@
+{
+  "title": "Optimization of Multilayer Standby Mechanisms in Continuous Chemical Processes",
+  "itemType": "journalArticle",
+  "creators": [
+    {
+      "firstName": "Sing-Zhi",
+      "lastName": "Chan",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Hung-Yu",
+      "lastName": "Liu",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Yi-Kai",
+      "lastName": "Luo",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Chuei-Tin",
+      "lastName": "Chang",
+      "creatorType": "author"
+    }
+  ],
+  "date": "2020-02-05",
+  "publicationTitle": "Industrial & Engineering Chemistry Research",
+  "journalAbbreviation": "Ind. Eng. Chem. Res.",
+  "volume": "59",
+  "issue": "5",
+  "pages": "2049-2059",
+  "DOI": "10.1021/acs.iecr.0c00233",
+  "ISSN": "0888-5885",
+  "url": "https://doi.org/10.1021/acs.iecr.0c00233",
+  "abstractNote": "Every\ncritical online unit in a continuous process must always\nfunction normally, and one or more identical units are usually put on standby to sustain the uninterrupted operation. Although a few related studies have been reported in the literature, a comprehensive analysis of the standby mechanism still has not been carried out. The objective of this research is to construct a generalized mathematical model to synthesize the multilayer standby mechanisms for any given processes by minimizing the total expected life cycle expenditure. A Matlab code can be developed accordingly to perform the required optimization tasks via a genetic algorithm. The feasibility and effectiveness of the proposed approach have been demonstrated with the case studies concerning the pump system in a typical chemical plant. From the optimization results, one can obtain the optimal design specifications of the multilayer standby mechanism, which include (1) the number of layers, (2) the numbers of both online and spare sensors in each measurement channel, (3) the corresponding voting-gate logic in each channel, (4) the inspection interval of a switch, (5) the number of spares for a switch, (6) the inspection intervals for warm standbys, and (7) the number of cold standbys.",
+  "zoteroItemKey": "42HBASZ9",
+  "decodedTitle": "Optimization of Multilayer Standby Mechanisms in Continuous Chemical Processes",
+  "year": 2020,
+  "tags": [],
+  "sourceCollections": [
+    {
+      "key": "PTATD5DB",
+      "pathNames": [
+        "Export-to-github"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "filename": "Chan_2020_Optimization_of_Multilayer_Stand_42HBASZ9.pdf",
+      "attachmentKey": "VYBT9KIK",
+      "attachmentTitle": "Full Text PDF",
+      "originalFilename": "Chan et al. - 2020 - Optimization of Multilayer Standby Mechanisms in Continuous Chemical Processes.pdf",
+      "contentType": "application/pdf",
+      "bytes": 2182366,
+      "sha256": "be29d1a8272ca266cd7342932e6a8ea96b1931e104ba25c708fb0f7c25955831"
+    }
+  ]
+}

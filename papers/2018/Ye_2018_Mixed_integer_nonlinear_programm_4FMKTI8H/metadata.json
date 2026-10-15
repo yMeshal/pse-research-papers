@@ -1,0 +1,61 @@
+{
+  "title": "Mixed-integer nonlinear programming models for optimal design of reliable chemical plants",
+  "itemType": "journalArticle",
+  "creators": [
+    {
+      "firstName": "Yixin",
+      "lastName": "Ye",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Ignacio E.",
+      "lastName": "Grossmann",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Jose M.",
+      "lastName": "Pinto",
+      "creatorType": "author"
+    }
+  ],
+  "date": "2018-08-04",
+  "publicationTitle": "Computers & Chemical Engineering",
+  "journalAbbreviation": "Computers & Chemical Engineering",
+  "volume": "116",
+  "pages": "3-16",
+  "DOI": "10.1016/j.compchemeng.2017.08.013",
+  "ISSN": "0098-1354",
+  "url": "https://www.sciencedirect.com/science/article/pii/S0098135417303058",
+  "abstractNote": "Motivated by reliability/availability concerns in chemical plants, this paper proposes MINLP models to determine the optimal selection of parallel units considering the trade-off between availability and cost. Assuming an underlying serial structure for availability, we consider first a case where the system transitions between available and unavailable states, and second the case with an intermediate state at half capacity. Two non-convex MINLP models maximizing net profit are introduced for the two cases. In addition, a bi-criterion MINLP model is proposed to maximize availability and to minimize cost for the first case. It is shown that the corresponding epsilon-constrained model, where the availability is maximized subject to parametrically varying upper bound of the cost, can be reformulated as a convex MINLP. Availability is also incorporated in the superstructure optimization of process flowsheets. The performances of the proposed models are illustrated with a methanol synthesis and a toluene hydrodealkylation process.",
+  "series": "Multi-scale Systems Engineering – in memory & honor of Professor C.A. Floudas",
+  "zoteroItemKey": "4FMKTI8H",
+  "decodedTitle": "Mixed-integer nonlinear programming models for optimal design of reliable chemical plants",
+  "year": 2018,
+  "tags": [
+    "Availability",
+    "Design",
+    "MINLP",
+    "Parallel units",
+    "Reliability",
+    "Serial structure"
+  ],
+  "sourceCollections": [
+    {
+      "key": "PTATD5DB",
+      "pathNames": [
+        "Export-to-github"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "filename": "Ye_2018_Mixed_integer_nonlinear_programm_4FMKTI8H.pdf",
+      "attachmentKey": "Z33SLUV7",
+      "attachmentTitle": "ScienceDirect Full Text PDF",
+      "originalFilename": "Ye et al. - 2018 - Mixed-integer nonlinear programming models for optimal design of reliable chemical plants.pdf",
+      "contentType": "application/pdf",
+      "bytes": 3191488,
+      "sha256": "70c499b7bc2655f699edd065a2dd3e838c7dd8b6e19b737561aa56a8a02fef2d"
+    }
+  ]
+}

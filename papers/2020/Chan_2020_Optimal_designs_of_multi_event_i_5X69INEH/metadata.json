@@ -1,0 +1,53 @@
+{
+  "title": "Optimal designs of multi-event interlocks",
+  "itemType": "journalArticle",
+  "creators": [
+    {
+      "firstName": "Sing-Zhi",
+      "lastName": "Chan",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Chuei-Tin",
+      "lastName": "Chang",
+      "creatorType": "author"
+    }
+  ],
+  "date": "2020-07-01",
+  "publicationTitle": "Reliability Engineering & System Safety",
+  "journalAbbreviation": "Reliability Engineering & System Safety",
+  "volume": "199",
+  "pages": "106915",
+  "DOI": "10.1016/j.ress.2020.106915",
+  "ISSN": "0951-8320",
+  "url": "https://www.sciencedirect.com/science/article/pii/S0951832019305605",
+  "abstractNote": "In order to mitigate the detrimental outcomes of process anomalies, modern chemical plants are generally equipped with various safety interlocks. However, almost every conventional design was created by conjecturing the proper protective mechanism against a single abnormal event. In reality, multiple independent abnormal events may take place in many processes. Thus, there is a definite need to develop a systematic approach for designing the multi-event interlocks. In this paper, a realistic system (the sump of a distillation column and the corresponding fired reboiler) is adopted as an illustrative example to show three possible multi-event scenarios. The ultimate objective of this study is to construct a superstructure-based mixed integer non-linear programming (MINLP) model to generate the optimal design of any given process by minimizing the total expected lifecycle cost. Extensive case studies are also presented to demonstrate the feasibility and effectiveness of the proposed design strategy. The resulting optimum specifications include: (1) the number of online sensors in each measurement channel and the corresponding voting gate, (2) the alarm logic, and (3) the number of actuators for each shutdown operation. Finally, from the optimization results, one can clearly see that the proposed multi-event interlock is always superior to a traditional one.",
+  "zoteroItemKey": "5X69INEH",
+  "decodedTitle": "Optimal designs of multi-event interlocks",
+  "year": 2020,
+  "tags": [
+    "Expected loss",
+    "Interlock",
+    "Multi-event",
+    "Reliability"
+  ],
+  "sourceCollections": [
+    {
+      "key": "PTATD5DB",
+      "pathNames": [
+        "Export-to-github"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "filename": "Chan_2020_Optimal_designs_of_multi_event_i_5X69INEH.pdf",
+      "attachmentKey": "S8LYEDRA",
+      "attachmentTitle": "ScienceDirect Full Text PDF",
+      "originalFilename": "Chan and Chang - 2020 - Optimal designs of multi-event interlocks.pdf",
+      "contentType": "application/pdf",
+      "bytes": 2071060,
+      "sha256": "31273ea1491c654af29401400826118df89922222cb66a24f25d4b1bc6346222"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "title": "A formulation to optimize the risk reduction process based on LOPA",
+  "itemType": "journalArticle",
+  "creators": [
+    {
+      "firstName": "Clementina",
+      "lastName": "Ramírez-Marengo",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Julio",
+      "lastName": "de Lira-Flores",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Antioco",
+      "lastName": "López-Molina",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Richart",
+      "lastName": "Vázquez-Román",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Victor",
+      "lastName": "Carreto-Vázquez",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "M. Sam",
+      "lastName": "Mannan",
+      "creatorType": "author"
+    }
+  ],
+  "date": "2013-05-01",
+  "publicationTitle": "Journal of Loss Prevention in the Process Industries",
+  "journalAbbreviation": "Journal of Loss Prevention in the Process Industries",
+  "volume": "26",
+  "issue": "3",
+  "pages": "489-494",
+  "DOI": "10.1016/j.jlp.2012.07.009",
+  "ISSN": "0950-4230",
+  "url": "https://www.sciencedirect.com/science/article/pii/S0950423012001052",
+  "abstractNote": "This paper presents a mixed integer nonlinear programming (MINLP) model to improve the computational use of the layer of protection analysis (LOPA). For a given set of independent protection layers to be implemented in a process, the proposed optimization model is solved to: a) Include costs associated with the different prevention, protection and mitigation devices, and b) Satisfy the risk level typically specified in the LOPA analysis through the occurrence probability. The underline purpose focuses on improving the analysis process and decision making to obtain the optimal solution in the safeguards selection that satisfies the requirements to be considered as IPL’s. The optimization is based on economic and risk tolerance criteria. As a first stage of this proposal, the safety instrumented system (SIS) design is optimized so that the selection of SIS components minimizes the risk and satisfies the safety integrity level (SIL) requirements. A case study is presented to validate the whole proposed approach.",
+  "series": "Papers presented at the 2011 Mary Kay O’Connor Process Safety Center International Symposium",
+  "zoteroItemKey": "IVRXG97A",
+  "decodedTitle": "A formulation to optimize the risk reduction process based on LOPA",
+  "year": 2013,
+  "tags": [
+    "Independent protection layer (IPL)",
+    "Layer of protection analysis (LOPA)",
+    "Optimization",
+    "Safety instrumented systems (SIS)",
+    "Safety integrity level (SIL)"
+  ],
+  "sourceCollections": [
+    {
+      "key": "PTATD5DB",
+      "pathNames": [
+        "Export-to-github"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "filename": "Ramirez_Marengo_2013_A_formulation_to_optimize_the_ri_IVRXG97A.pdf",
+      "attachmentKey": "FN3BED3X",
+      "attachmentTitle": "ScienceDirect Full Text PDF",
+      "originalFilename": "Ramírez-Marengo et al. - 2013 - A formulation to optimize the risk reduction process based on LOPA.pdf",
+      "contentType": "application/pdf",
+      "bytes": 218714,
+      "sha256": "4fe873ce9e27402641aa3bd3853b2418ec6fb8c619fbe3f0d32f39a46a8f29ab"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "title": "Flexibility, reliability and maintenance considerations in batch plant design under uncertainty",
+  "itemType": "journalArticle",
+  "creators": [
+    {
+      "firstName": "E. N.",
+      "lastName": "Pistikopoulos",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "T. V.",
+      "lastName": "Thomaidis",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "A.",
+      "lastName": "Melin",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "M. G.",
+      "lastName": "Ierapetritou",
+      "creatorType": "author"
+    }
+  ],
+  "date": "1996-01-01",
+  "publicationTitle": "Computers & Chemical Engineering",
+  "journalAbbreviation": "Computers & Chemical Engineering",
+  "volume": "20",
+  "pages": "S1209-S1214",
+  "DOI": "10.1016/0098-1354(96)00209-8",
+  "ISSN": "0098-1354",
+  "url": "https://www.sciencedirect.com/science/article/pii/0098135496002098",
+  "abstractNote": "The paper addresses the problem of including aspects of uncertainty in process parameters, product demands and equipment availability at the design stage of multiproduct/multipurpose batch plants. A two-stage stochastic programming formulation is proposed with an objective function comprising installing, operating and maintenance cost, expected revenues from product sales and a penalty term accounting for expected losses due to unfilled orders. It is shown that the exploitation of the special structure of the mathematical model enables the reformulation of the problem to a large scale optimization program, featuring explicit scheduling constraints, in which parameter variability and equipment failures are simultaneously considered. A decomposition-based solution procedure is proposed to determine the optimal design, schedule and maintenance plan maximizing an expected profit criterion.",
+  "series": "European Symposium on Computer Aided Process Engineering-6",
+  "zoteroItemKey": "MA2USK38",
+  "decodedTitle": "Flexibility, reliability and maintenance considerations in batch plant design under uncertainty",
+  "year": 1996,
+  "tags": [],
+  "sourceCollections": [
+    {
+      "key": "PTATD5DB",
+      "pathNames": [
+        "Export-to-github"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "filename": "Pistikopoulos_1996_Flexibility_reliability_and_main_MA2USK38.pdf",
+      "attachmentKey": "ZGVUZS33",
+      "attachmentTitle": "ScienceDirect Full Text PDF",
+      "originalFilename": "Pistikopoulos et al. - 1996 - Flexibility, reliability and maintenance considerations in batch plant design under uncertainty.pdf",
+      "contentType": "application/pdf",
+      "bytes": 441156,
+      "sha256": "11a765bce91ab2ca5dbe8e49162dbdb0d56fd2a083535bf03442640e8d0de9a5"
+    }
+  ]
+}

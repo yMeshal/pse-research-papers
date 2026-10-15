@@ -1,0 +1,40 @@
+{
+  "title": "Automated system design optimisation",
+  "itemType": "thesis",
+  "creators": [
+    {
+      "firstName": "D.",
+      "lastName": "Astapenko",
+      "creatorType": "author"
+    }
+  ],
+  "date": "2010/01/01",
+  "url": "https://repository.lboro.ac.uk/articles/thesis/Automated_system_design_optimisation/9218549/1",
+  "abstractNote": "The focus of this thesis is to develop a generic approach for solving reliability design optimisation problems which could be applicable to a diverse range of real engineering systems. The basic problem in optimal reliability design of a system is to explore the means of improving the system reliability within the bounds of available resources. Improving the reliability reduces the likelihood of system failure. The consequences of system failure can vary from minor inconvenience and cost to significant economic loss and personal injury. However any improvements made to the system are subject to the availability of resources, which are very often limited. The objective of the design optimisation problem analysed in this thesis is to minimise system unavailability (or unreliability if an unrepairable system is analysed) through the manipulation and assessment of all possible design alterations available, which are subject to constraints on resources and/or system performance requirements. This thesis describes a genetic algorithm-based technique developed to solve the optimisation problem. Since an explicit mathematical form can not be formulated to evaluate the objective function, the system unavailability (unreliability) is assessed using the fault tree method. Central to the optimisation algorithm are newly developed fault tree modification patterns (FTMPs). They are employed here to construct one fault tree representing all possible designs investigated, from the initial system design specified along with the design choices. This is then altered to represent the individual designs in question during the optimisation process. Failure probabilities for specified design cases are quantified by employing Binary Decision Diagrams (BDDs). A computer programme has been developed to automate the application of the optimisation approach to standard engineering safety systems. Its practicality is demonstrated through the consideration of two systems of increasing complexity; first a High Integrity Protection System (HIPS) followed by a Fire Water Deluge System (FWDS). The technique is then further-developed and applied to solve problems of multi-phased mission systems. Two systems are considered; first an unmanned aerial vehicle (UAV) and secondly a military vessel. The final part of this thesis focuses on continuing the development process by adapting the method to solve design optimisation problems for multiple multi-phased mission systems. Its application is demonstrated by considering an advanced UAV system involving multiple multi-phased flight missions. The applications discussed prove that the technique progressively developed in this thesis enables design optimisation problems to be solved for systems with different levels of complexity. A key contribution of this thesis is the development of a novel generic optimisation technique, embedding newly developed FTMPs, which is capable of optimising the reliability design for potentially any engineering system. Another key and novel contribution of this work is the capability to analyse and provide optimal design solutions for multiple multi-phase mission systems. Keywords: optimisation, system design, multi-phased mission system, reliability, genetic algorithm, fault tree, binary decision diagram",
+  "language": "en",
+  "university": "Loughborough University",
+  "thesisType": "thesis",
+  "zoteroItemKey": "DKV599JJ",
+  "decodedTitle": "Automated system design optimisation",
+  "year": 2010,
+  "tags": [],
+  "sourceCollections": [
+    {
+      "key": "PTATD5DB",
+      "pathNames": [
+        "Export-to-github"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "filename": "Astapenko_2010_Automated_system_design_optimisa_DKV599JJ.pdf",
+      "attachmentKey": "JBNJAUP7",
+      "attachmentTitle": "PDF",
+      "originalFilename": "Astapenko - 2010 - Automated system design optimisation.pdf",
+      "contentType": "application/pdf",
+      "bytes": 3268927,
+      "sha256": "b9ff7a476cd9160d2e753bc0df5f1881deaa62ca514c24a12130ff83f4d7d903"
+    }
+  ]
+}

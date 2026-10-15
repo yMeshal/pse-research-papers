@@ -1,0 +1,61 @@
+{
+  "title": "Decision-dependent probabilities in stochastic programs with recourse",
+  "itemType": "journalArticle",
+  "creators": [
+    {
+      "firstName": "Lars",
+      "lastName": "Hellemo",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Paul I.",
+      "lastName": "Barton",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Asgeir",
+      "lastName": "Tomasgard",
+      "creatorType": "author"
+    }
+  ],
+  "date": "2018-10-01",
+  "publicationTitle": "Computational Management Science",
+  "journalAbbreviation": "Comput Manag Sci",
+  "volume": "15",
+  "issue": "3",
+  "pages": "369-395",
+  "DOI": "10.1007/s10287-018-0330-0",
+  "ISSN": "1619-6988",
+  "url": "https://doi.org/10.1007/s10287-018-0330-0",
+  "abstractNote": "Stochastic programming with recourse usually assumes uncertainty to be exogenous. Our work presents modelling and application of decision-dependent uncertainty in mathematical programming including a taxonomy of stochastic programming recourse models with decision-dependent uncertainty. The work includes several ways of incorporating direct or indirect manipulation of underlying probability distributions through decision variables in two-stage stochastic programming problems. Two-stage models are formulated where prior probabilities are distorted through an affine transformation or combined using a convex combination of several probability distributions. Additionally, we present models where the parameters of the probability distribution are first-stage decision variables. The probability distributions are either incorporated in the model using the exact expression or by using a rational approximation. Test instances for each formulation are solved with a commercial solver, BARON, using selective branching.",
+  "language": "en",
+  "zoteroItemKey": "ZGG84P7I",
+  "decodedTitle": "Decision-dependent probabilities in stochastic programs with recourse",
+  "year": 2018,
+  "tags": [
+    "Decision Dependent Uncertainty",
+    "Endogenous Uncertainty",
+    "Selective Branching",
+    "Stochastic Programming",
+    "Test Instances"
+  ],
+  "sourceCollections": [
+    {
+      "key": "PTATD5DB",
+      "pathNames": [
+        "Export-to-github"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "filename": "Hellemo_2018_Decision_dependent_probabilities_ZGG84P7I.pdf",
+      "attachmentKey": "6ST4LHAG",
+      "attachmentTitle": "Full Text PDF",
+      "originalFilename": "Hellemo et al. - 2018 - Decision-dependent probabilities in stochastic programs with recourse.pdf",
+      "contentType": "application/pdf",
+      "bytes": 844169,
+      "sha256": "c11257ca31cc77316bd3fe453b9627d78d36b6aa3daab86b7f9b7d2fad1199fe"
+    }
+  ]
+}

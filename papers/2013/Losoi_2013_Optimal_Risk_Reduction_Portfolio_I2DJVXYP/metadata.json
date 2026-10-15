@@ -1,0 +1,37 @@
+{
+  "title": "Optimal Risk Reduction Portfolios in Fault Tree Analysis",
+  "itemType": "conferencePaper",
+  "creators": [
+    {
+      "firstName": "Markus",
+      "lastName": "Losoi",
+      "creatorType": "author"
+    }
+  ],
+  "date": "30 September 2013",
+  "url": "https://www.semanticscholar.org/paper/Optimal-Risk-Reduction-Portfolios-in-Fault-Tree-Losoi/0fe96eced47e5adf73c4b89ace25438dae80db80",
+  "abstractNote": "Failures of technical systems can cause extensive physical, material or financial damage to both people and the environment. Fault tree analysis is a method to quantify and model the causes of these failures. In this method, a system is decomposed into components that fail with a given probability and the failure of the system is modeled as a function of these probabilities. Failure probabilities can be reduced by securing them, which reduces also system failure probability, i.e., system unreliability. This can be accomplished, e.g., by replacing a component with a parallel configuration of identical components. However, reducing a failure probability has a cost and budget available is typically limited. For this reason, only a strict subset of components can be secured. This subset is called a risk reduction portfolio. In this thesis, a mixed-integer linear programming (MILP) problem is formulated to minimize system unreliability within a budget. The solution of the problem is the set of components that are secured, and it is called an optimal risk reduction portfolio. The MILP problem is utilized in two types of computational experiments. First, optimal risk reduction portfolios are solved as a function of budget. Second, uncertainty on failure probabilities is modeled with probability intervals. In this case, potentially non-dominated portfolios and approximate core indices of components are computed by solving the MILP problem with point-estimate probabilities taken randomly from their respective intervals. Computational experiments are performed with two systems. First, an example test system is analysed. The structure of this system allows checking without a great effort that the solutions of the MILP problem were reasonable. This was observed to be the case. The second system is based on a residual heat removal system of a nuclear reactor. The optimal risk reduction portfolios as a function of budget revealed that the optimal order to secure components in this system resembles roughly the Fussel-Vesely risk importance order of the components. With probability intervals, 97 potentially non-dominated porfolios of ten components were found and core index approximations suggested that the securing of particular components should be prioritized while the securing of particular others should be the last priority. Date: 30.9.2013 Language: English Number of pages: 4+35",
+  "zoteroItemKey": "I2DJVXYP",
+  "decodedTitle": "Optimal Risk Reduction Portfolios in Fault Tree Analysis",
+  "year": 2013,
+  "tags": [],
+  "sourceCollections": [
+    {
+      "key": "PTATD5DB",
+      "pathNames": [
+        "Export-to-github"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "filename": "Losoi_2013_Optimal_Risk_Reduction_Portfolio_I2DJVXYP.pdf",
+      "attachmentKey": "YGZIAQNG",
+      "attachmentTitle": "Full Text PDF",
+      "originalFilename": "Losoi - 2013 - Optimal Risk Reduction Portfolios in Fault Tree Analysis.pdf",
+      "contentType": "application/pdf",
+      "bytes": 663548,
+      "sha256": "4370dc6342e392877abf1507a96de6db2a0b6ba4d6707a54b13bd238ce413f63"
+    }
+  ]
+}

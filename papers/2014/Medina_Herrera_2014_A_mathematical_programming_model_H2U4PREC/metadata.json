@@ -1,0 +1,59 @@
+{
+  "title": "A mathematical programming model for optimal layout considering quantitative risk analysis",
+  "itemType": "journalArticle",
+  "creators": [
+    {
+      "firstName": "Nancy",
+      "lastName": "Medina-Herrera",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Arturo",
+      "lastName": "Jiménez-Gutiérrez",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Ignacio E.",
+      "lastName": "Grossmann",
+      "creatorType": "author"
+    }
+  ],
+  "date": "2014-09-04",
+  "publicationTitle": "Computers & Chemical Engineering",
+  "journalAbbreviation": "Computers & Chemical Engineering",
+  "volume": "68",
+  "pages": "165-181",
+  "DOI": "10.1016/j.compchemeng.2014.05.019",
+  "ISSN": "0098-1354",
+  "url": "https://www.sciencedirect.com/science/article/pii/S0098135414001690",
+  "abstractNote": "Safety and performance are important factors in the design and operation of chemical plants. This paper describes the formulation of a mixed integer nonlinear programming model for the optimization of plant layout with safety considerations. The model considers a quantitative risk analysis to take safety into account, and a bowtie analysis is used to identify possible catastrophic outcomes. These effects are quantified through consequence analyses and probit models. The model allows the location of facilities at any available point, an advantage over grid-based models. Two case studies are solved to show the applicability of the proposed approach.",
+  "zoteroItemKey": "H2U4PREC",
+  "decodedTitle": "A mathematical programming model for optimal layout considering quantitative risk analysis",
+  "year": 2014,
+  "tags": [
+    "Mixed-integer programming",
+    "Optimization",
+    "Plant layout",
+    "Quantitative risk analysis",
+    "Safety"
+  ],
+  "sourceCollections": [
+    {
+      "key": "PTATD5DB",
+      "pathNames": [
+        "Export-to-github"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "filename": "Medina_Herrera_2014_A_mathematical_programming_model_H2U4PREC.pdf",
+      "attachmentKey": "U88XJ8HA",
+      "attachmentTitle": "ScienceDirect Full Text PDF",
+      "originalFilename": "Medina-Herrera et al. - 2014 - A mathematical programming model for optimal layout considering quantitative risk analysis.pdf",
+      "contentType": "application/pdf",
+      "bytes": 1525514,
+      "sha256": "e98c8eed9642f11c1a3df0fe750b5f3298432d199c8aa8e85334421fce4e2dd0"
+    }
+  ]
+}

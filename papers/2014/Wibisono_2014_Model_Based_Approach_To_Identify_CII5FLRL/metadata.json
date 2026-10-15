@@ -1,0 +1,54 @@
+{
+  "title": "Model Based Approach To Identify Optimal System Structures and Maintenance Policies for Safety Interlocks with Time-Varying Failure Rates",
+  "itemType": "journalArticle",
+  "creators": [
+    {
+      "firstName": "Edwin",
+      "lastName": "Wibisono",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Vincentius Surya Kurnia",
+      "lastName": "Adi",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Chuei-Tin",
+      "lastName": "Chang",
+      "creatorType": "author"
+    }
+  ],
+  "date": "2014-03-19",
+  "publicationTitle": "Industrial & Engineering Chemistry Research",
+  "journalAbbreviation": "Ind. Eng. Chem. Res.",
+  "volume": "53",
+  "issue": "11",
+  "pages": "4398-4412",
+  "DOI": "10.1021/ie402902q",
+  "ISSN": "0888-5885",
+  "url": "https://doi.org/10.1021/ie402902q",
+  "abstractNote": "In\norder to mitigate the detrimental outcomes of accidents in the\nmodern chemical plants, it is a common practice to install safety interlocks on processes operated under hazardous conditions. A generic mathematical programming model has already been developed in the past for simultaneously stipulating the optimal interlock structure and the corresponding maintenance policies of a given process. This conventional formulation is improved in the present study by relaxing a constraining assumption, that is, the failure rate of every embedded component is constant. Instead of the exponential distribution, the more realistic Weibull distribution is incorporated in the modified model to characterize the time to failure of every embedded component. Consequently, this proposed practice could facilitate identification of more elaborate time-dependent inspection schedules and also alarm logics. Two examples are provided to demonstrate the feasibility and effectiveness of the proposed approach.",
+  "zoteroItemKey": "CII5FLRL",
+  "decodedTitle": "Model Based Approach To Identify Optimal System Structures and Maintenance Policies for Safety Interlocks with Time-Varying Failure Rates",
+  "year": 2014,
+  "tags": [],
+  "sourceCollections": [
+    {
+      "key": "PTATD5DB",
+      "pathNames": [
+        "Export-to-github"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "filename": "Wibisono_2014_Model_Based_Approach_To_Identify_CII5FLRL.pdf",
+      "attachmentKey": "VK82Z4Q2",
+      "attachmentTitle": "Full Text PDF",
+      "originalFilename": "Wibisono et al. - 2014 - Model Based Approach To Identify Optimal System Structures and Maintenance Policies for Safety Inter.pdf",
+      "contentType": "application/pdf",
+      "bytes": 1363488,
+      "sha256": "264e36cb38a5230e36c2b79517386ab30833ab1833bf59f02d46d7053387789a"
+    }
+  ]
+}

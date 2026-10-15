@@ -1,0 +1,60 @@
+{
+  "title": "Multi-objective optimization of design and testing of safety instrumented systems with MooN voting architectures using a genetic algorithm",
+  "itemType": "journalArticle",
+  "creators": [
+    {
+      "firstName": "A. C.",
+      "lastName": "Torres-Echeverría",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "S.",
+      "lastName": "Martorell",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "H. A.",
+      "lastName": "Thompson",
+      "creatorType": "author"
+    }
+  ],
+  "date": "2012-10-01",
+  "publicationTitle": "Reliability Engineering & System Safety",
+  "journalAbbreviation": "Reliability Engineering & System Safety",
+  "volume": "106",
+  "pages": "45-60",
+  "DOI": "10.1016/j.ress.2012.03.010",
+  "ISSN": "0951-8320",
+  "url": "https://www.sciencedirect.com/science/article/pii/S0951832012000440",
+  "abstractNote": "This paper presents the optimization of design and test policies of safety instrumented systems using MooN voting redundancies by a multi-objective genetic algorithm. The objectives to optimize are the Average Probability of Dangerous Failure on Demand, which represents the system safety integrity, the Spurious Trip Rate and the Lifecycle Cost. In this way safety, reliability and cost are included. This is done by using novel models of time-dependent probability of failure on demand and spurious trip rate, recently published by the authors. These models are capable of delivering the level of modeling detail required by the standard IEC 61508. Modeling includes common cause failure and diagnostic coverage. The Probability of Failure on Demand model also permits to quantify results with changing testing strategies. The optimization is performed using the multi-objective Genetic Algorithm NSGA-II. This allows weighting of the trade-offs between the three objectives and, thus, implementation of safety systems that keep a good balance between safety, reliability and cost. The complete methodology is applied to two separate case studies, one for optimization of system design with redundancy allocation and component selection and another for optimization of testing policies. Both optimization cases are performed for both systems with MooN redundancies and systems with only parallel redundancies. Their results are compared, demonstrating how introducing MooN architectures presents a significant improvement for the optimization process.",
+  "zoteroItemKey": "SE47782A",
+  "decodedTitle": "Multi-objective optimization of design and testing of safety instrumented systems with MooN voting architectures using a genetic algorithm",
+  "year": 2012,
+  "tags": [
+    "-out-of-",
+    "Genetic algorithms",
+    "Optimization",
+    "Probability of failure on demand",
+    "Safety system",
+    "Spurious trip rate"
+  ],
+  "sourceCollections": [
+    {
+      "key": "PTATD5DB",
+      "pathNames": [
+        "Export-to-github"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "filename": "Torres_Echeverria_2012_Multi_objective_optimization_of_SE47782A.pdf",
+      "attachmentKey": "UT9VUFRH",
+      "attachmentTitle": "ScienceDirect Full Text PDF",
+      "originalFilename": "Torres-Echeverría et al. - 2012 - Multi-objective optimization of design and testing of safety instrumented systems with MooN voting a.pdf",
+      "contentType": "application/pdf",
+      "bytes": 2569752,
+      "sha256": "3056e3a7688881c93376f6ec9b25573d7a6f901567d06aaf7ba7888fde34148c"
+    }
+  ]
+}

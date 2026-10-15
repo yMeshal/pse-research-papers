@@ -1,0 +1,43 @@
+{
+  "title": "Genetic algorithms in optimal safety system design",
+  "itemType": "journalArticle",
+  "creators": [
+    {
+      "firstName": "Rachel L.",
+      "lastName": "Pattison",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "J. D.",
+      "lastName": "Andrews",
+      "creatorType": "author"
+    }
+  ],
+  "date": "1999/01/01",
+  "url": "https://repository.lboro.ac.uk/articles/journal_contribution/Genetic_algorithms_in_optimal_safety_system_design/9226850/1",
+  "abstractNote": "This paper describes a design optimization scheme for systems that require a high likelihood of functioning on demand. For safety systems whose failure could result in loss of life it is imperative that the best use of the available resources is made and that a system which is optimal and not just adequate is produced.",
+  "language": "en",
+  "zoteroItemKey": "QUSZ28BI",
+  "decodedTitle": "Genetic algorithms in optimal safety system design",
+  "year": 1999,
+  "tags": [],
+  "sourceCollections": [
+    {
+      "key": "PTATD5DB",
+      "pathNames": [
+        "Export-to-github"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "filename": "Pattison_1999_Genetic_algorithms_in_optimal_sa_QUSZ28BI.pdf",
+      "attachmentKey": "89IUS8YQ",
+      "attachmentTitle": "PDF",
+      "originalFilename": "Pattison and Andrews - 1999 - Genetic algorithms in optimal safety system design.pdf",
+      "contentType": "application/pdf",
+      "bytes": 140968,
+      "sha256": "d8abdc8a788b8e340e7696103a21fe77f40dad728ec64a4af373bb742d52f21b"
+    }
+  ]
+}

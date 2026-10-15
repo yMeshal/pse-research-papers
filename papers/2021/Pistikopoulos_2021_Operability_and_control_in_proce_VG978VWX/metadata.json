@@ -1,0 +1,60 @@
+{
+  "title": "Operability and control in process intensification and modular design: Challenges and opportunities",
+  "itemType": "journalArticle",
+  "creators": [
+    {
+      "firstName": "Efstratios N.",
+      "lastName": "Pistikopoulos",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Yuhe",
+      "lastName": "Tian",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Rahul",
+      "lastName": "Bindlish",
+      "creatorType": "author"
+    }
+  ],
+  "date": "2021",
+  "publicationTitle": "AIChE Journal",
+  "volume": "67",
+  "issue": "5",
+  "pages": "e17204",
+  "DOI": "10.1002/aic.17204",
+  "ISSN": "1547-5905",
+  "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/aic.17204",
+  "abstractNote": "In this article, the importance of considering operability and control criteria in the analysis and design of intensified and modular processes is discussed. We first analyze the impact on operability of key factors including: (i) degrees of freedom, (ii) process constraints, (iii) numbering up vs. scaling up, and (iv) dynamic/periodic operation. Comparative examples are presented to showcase the pros and cons in intensified/modular systems vs. their conventional counterparts from operability and control aspects. Then we look into metrics and tools to address these challenges such as: (i) flexibility analysis, (ii) operability-based design, and (iii) advanced model-based control. Considering different conceptual design stages as synthesis intensification, steady-state design, and dynamic operational optimization, we highlight the need to incorporate different levels of operability considerations. Future research opportunities and perspectives are also identified, particularly emphasizing the importance of a holistic strategy for integrated design, operability, and control of intensified and modular process systems.",
+  "language": "en",
+  "zoteroItemKey": "VG978VWX",
+  "decodedTitle": "Operability and control in process intensification and modular design: Challenges and opportunities",
+  "year": 2021,
+  "tags": [
+    "control",
+    "design and control",
+    "modular design",
+    "operability",
+    "process intensification"
+  ],
+  "sourceCollections": [
+    {
+      "key": "PTATD5DB",
+      "pathNames": [
+        "Export-to-github"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "filename": "Pistikopoulos_2021_Operability_and_control_in_proce_VG978VWX.pdf",
+      "attachmentKey": "H7EGYGVA",
+      "attachmentTitle": "Full Text PDF",
+      "originalFilename": "Pistikopoulos et al. - 2021 - Operability and control in process intensification and modular design Challenges and opportunities.pdf",
+      "contentType": "application/pdf",
+      "bytes": 2860165,
+      "sha256": "3560cf8862115fca468b93efbb72cb5018bc3b438e323422faeeaa85ef3e984f"
+    }
+  ]
+}

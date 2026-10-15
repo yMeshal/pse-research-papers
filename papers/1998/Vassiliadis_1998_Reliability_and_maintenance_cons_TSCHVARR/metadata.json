@@ -1,0 +1,55 @@
+{
+  "title": "Reliability and maintenance considerations in process design under uncertainty",
+  "itemType": "journalArticle",
+  "creators": [
+    {
+      "firstName": "C. G.",
+      "lastName": "Vassiliadis",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "E. N.",
+      "lastName": "Pistikopoulos",
+      "creatorType": "author"
+    }
+  ],
+  "date": "1998-03-15",
+  "publicationTitle": "Computers & Chemical Engineering",
+  "journalAbbreviation": "Computers & Chemical Engineering",
+  "volume": "22",
+  "pages": "S521-S528",
+  "DOI": "10.1016/S0098-1354(98)00096-9",
+  "ISSN": "0098-1354",
+  "url": "https://www.sciencedirect.com/science/article/pii/S0098135498000969",
+  "abstractNote": "In this paper, we describe recent theoretical and algorithmic developments aiming at the integration of maintenance optimization in optimal life-cycle process design and development under uncertainty. Based on a mathematical description for the process model, information regarding the reliability characteristics of equipment components and type and cost of different maintenance policies for each component, we propose an optimization formulation featuring an expected profit objective function, taking into account the transitions between the different states of the process system (due to equipment failure and corrective maintenance). Different types of preventive maintenance strategies are discussed together with their resulting mathematical problems, which correspond to mixed-integer nonlinear optimization formulations involving implicitly defined integral terms. By exploiting properties of the maintenance problem, a series of nonlinear optimization problems of reduced size is solved instead, thereby avoiding the direct solution of the original formulations. The implications of maintenance optimization on process design are also studied. This is achieved by comparing two approaches, a sequential vs. a simultaneous strategy, for simulataneous design and maintenance optimization. It is shown that the incorporation of maintainability criteria provides new directions in proposing and identifying optimal, over a life cycle, process designs.",
+  "series": "European Symposium on Computer Aided Process Engineering-8",
+  "zoteroItemKey": "TSCHVARR",
+  "decodedTitle": "Reliability and maintenance considerations in process design under uncertainty",
+  "year": 1998,
+  "tags": [
+    "maintenance",
+    "optimization",
+    "process design",
+    "process uncertainty",
+    "reliability"
+  ],
+  "sourceCollections": [
+    {
+      "key": "PTATD5DB",
+      "pathNames": [
+        "Export-to-github"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "filename": "Vassiliadis_1998_Reliability_and_maintenance_cons_TSCHVARR.pdf",
+      "attachmentKey": "RPVL7BIV",
+      "attachmentTitle": "ScienceDirect Full Text PDF",
+      "originalFilename": "Vassiliadis and Pistikopoulos - 1998 - Reliability and maintenance considerations in process design under uncertainty.pdf",
+      "contentType": "application/pdf",
+      "bytes": 847451,
+      "sha256": "d9060bf4815708eb6283618bcac4f645a0d49e2872af3a867787d0c360ba4091"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "title": "Optimal design of reliable integrated chemical production sites",
+  "itemType": "journalArticle",
+  "creators": [
+    {
+      "firstName": "Sebastian",
+      "lastName": "Terrazas-Moreno",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Ignacio E.",
+      "lastName": "Grossmann",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "John M.",
+      "lastName": "Wassick",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Scott J.",
+      "lastName": "Bury",
+      "creatorType": "author"
+    }
+  ],
+  "date": "2010-12-09",
+  "publicationTitle": "Computers & Chemical Engineering",
+  "journalAbbreviation": "Computers & Chemical Engineering",
+  "volume": "34",
+  "issue": "12",
+  "pages": "1919-1936",
+  "DOI": "10.1016/j.compchemeng.2010.07.027",
+  "ISSN": "0098-1354",
+  "url": "https://www.sciencedirect.com/science/article/pii/S0098135410002759",
+  "abstractNote": "Since plants that form the process network are subjected to fluctuations in product demand or random mechanical failures, design decisions such as adding redundant units and increasing storage between units can increase the flexibility and reliability of an integrated site. In this paper, we develop a bi-criterion optimization model that captures the trade-off between capital investment and process robustness in the design of an integrated site. Design decisions considered are increases in process capacity, introduction of parallel units, and addition of intermediate storage. The mixed-integer linear programming (MILP) formulation proposed in this paper includes the representation of the material levels in the intermediate storage by means of a probabilistic model that captures the effects of the discrete, uncertain events. We also integrate a superstructure optimization with stochastic modeling techniques such as continuous-time Markov chains. The application of the proposed model is illustrated with two example problems.",
+  "series": "10th International Symposium on Process Systems Engineering, Salvador, Bahia, Brasil, 16-20 August 2009",
+  "zoteroItemKey": "449V54CJ",
+  "decodedTitle": "Optimal design of reliable integrated chemical production sites",
+  "year": 2010,
+  "tags": [
+    "Flexibility",
+    "Markov chains",
+    "Mixed-integer programming",
+    "Reliability",
+    "Stochastic programming"
+  ],
+  "sourceCollections": [
+    {
+      "key": "PTATD5DB",
+      "pathNames": [
+        "Export-to-github"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "filename": "Terrazas_Moreno_2010_Optimal_design_of_reliable_integ_449V54CJ.pdf",
+      "attachmentKey": "TZLHWWXK",
+      "attachmentTitle": "ScienceDirect Full Text PDF",
+      "originalFilename": "Terrazas-Moreno et al. - 2010 - Optimal design of reliable integrated chemical production sites.pdf",
+      "contentType": "application/pdf",
+      "bytes": 1132266,
+      "sha256": "dad470f01b2303f834ba879c8974a9c824d02e7a350a85e89052ef7a3b7a46d5"
+    }
+  ]
+}

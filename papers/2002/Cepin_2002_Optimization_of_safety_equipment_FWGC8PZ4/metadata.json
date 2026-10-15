@@ -1,0 +1,50 @@
+{
+  "title": "Optimization of safety equipment outages improves safety",
+  "itemType": "journalArticle",
+  "creators": [
+    {
+      "firstName": "Marko",
+      "lastName": "Čepin",
+      "creatorType": "author"
+    }
+  ],
+  "date": "2002-07-01",
+  "publicationTitle": "Reliability Engineering & System Safety",
+  "journalAbbreviation": "Reliability Engineering & System Safety",
+  "volume": "77",
+  "issue": "1",
+  "pages": "71-80",
+  "DOI": "10.1016/S0951-8320(02)00030-3",
+  "ISSN": "0951-8320",
+  "url": "https://www.sciencedirect.com/science/article/pii/S0951832002000303",
+  "abstractNote": "Testing and maintenance activities of safety equipment in nuclear power plants are an important potential for risk and cost reduction. An optimization method is presented based on the simulated annealing algorithm. The method determines the optimal schedule of safety equipment outages due to testing and maintenance based on minimization of selected risk measure. The mean value of the selected time dependent risk measure represents the objective function of the optimization. The time dependent function of the selected risk measure is obtained from probabilistic safety assessment, i.e. the fault tree analysis at the system level and the fault tree/event tree analysis at the plant level, both extended with inclusion of time requirements. Results of several examples showed that it is possible to reduce risk by application of the proposed method. Because of large uncertainties in the probabilistic safety assessment, the most important result of the method may not be a selection of the most suitable schedule of safety equipment outages among those, which results in similarly low risk. But, it may be a prevention of such schedules of safety equipment outages, which result in high risk. Such finding increases the importance of evaluation speed versus the requirement of getting always the global optimum no matter if it is only slightly better that certain local one.",
+  "zoteroItemKey": "FWGC8PZ4",
+  "decodedTitle": "Optimization of safety equipment outages improves safety",
+  "year": 2002,
+  "tags": [
+    "Optimization",
+    "Probabilistic safety assessment",
+    "Reliability",
+    "Risk",
+    "Safety"
+  ],
+  "sourceCollections": [
+    {
+      "key": "PTATD5DB",
+      "pathNames": [
+        "Export-to-github"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "filename": "Cepin_2002_Optimization_of_safety_equipment_FWGC8PZ4.pdf",
+      "attachmentKey": "3SVK6BDX",
+      "attachmentTitle": "ScienceDirect Full Text PDF",
+      "originalFilename": "Čepin - 2002 - Optimization of safety equipment outages improves safety.pdf",
+      "contentType": "application/pdf",
+      "bytes": 382706,
+      "sha256": "30bbb72491efc678feafc0db98f159b9d1534384f4a5e1d34a0dbebc8adfd5b4"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "title": "Integrated Redundancy and Storage Design Optimization for Reliable Air Separation Units Based on Markov Chain&#xe5f8;A Game Theoretic Solution",
+  "itemType": "journalArticle",
+  "creators": [
+    {
+      "firstName": "Yixin",
+      "lastName": "Ye",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Ignacio E.",
+      "lastName": "Grossmann",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Jose M.",
+      "lastName": "Pinto",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Sivaraman",
+      "lastName": "Ramaswamy",
+      "creatorType": "author"
+    }
+  ],
+  "date": "2020-02-12",
+  "publicationTitle": "Industrial & Engineering Chemistry Research",
+  "journalAbbreviation": "Ind. Eng. Chem. Res.",
+  "volume": "59",
+  "issue": "6",
+  "pages": "2491-2504",
+  "DOI": "10.1021/acs.iecr.9b04609",
+  "ISSN": "0888-5885",
+  "url": "https://doi.org/10.1021/acs.iecr.9b04609",
+  "abstractNote": "The profitability of a chemical plant is directly related\nto its\nreliability, which has always been a major concern in the chemical industry. In this paper, we address the problem at the conceptual design phase of an air separation plant to minimize the negative income, which consists of the penalty incurred from pipeline supply interruption and the cost of increasing reliability, including having redundant units and storage tanks. A mixed integer linear programming (MILP) model (denoted as RST) based on the Markov Chain assumption is proposed and applied to the motivating example of an air separation plant. Furthermore, to tackle larger superstructures, we propose a game theoretic algorithm that decomposes and restructures the problem as a team game of the individual processing stages and arrives at a Nash Equilibrium among them. It is also shown that a good initialization point close to the global optimum can be easily obtained, which guarantees the quality of the Nash Equilibrium solution. A number of examples are shown to illustrate the proposed algorithm’s ability to solve\nto global optimality in much shorter time than the direct solution of the original MILP model (RST).",
+  "zoteroItemKey": "47HKTPVC",
+  "decodedTitle": "Integrated Redundancy and Storage Design Optimization for Reliable Air Separation Units Based on Markov ChainA Game Theoretic Solution",
+  "year": 2020,
+  "tags": [],
+  "sourceCollections": [
+    {
+      "key": "PTATD5DB",
+      "pathNames": [
+        "Export-to-github"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "filename": "Ye_2020_Integrated_Redundancy_and_Storag_47HKTPVC.pdf",
+      "attachmentKey": "JMZW5YJF",
+      "attachmentTitle": "Full Text PDF",
+      "originalFilename": "Ye et al. - 2020 - Integrated Redundancy and Storage Design Optimization for Reliable Air Separation Units Based on Mar.pdf",
+      "contentType": "application/pdf",
+      "bytes": 3204390,
+      "sha256": "1cc1bdcf1242c7a9dd695d5ffcc8f290adfe2053875bf7a432a19bcf730268c9"
+    }
+  ]
+}

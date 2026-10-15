@@ -1,0 +1,61 @@
+{
+  "title": "Optimal Allocation of Risk-Reduction Resources in Event Trees",
+  "itemType": "journalArticle",
+  "creators": [
+    {
+      "firstName": "Hanif D.",
+      "lastName": "Sherali",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Jitamitra",
+      "lastName": "Desai",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Theodore S.",
+      "lastName": "Glickman",
+      "creatorType": "author"
+    }
+  ],
+  "date": "2008-07",
+  "publicationTitle": "Management Science",
+  "volume": "54",
+  "issue": "7",
+  "pages": "1313-1321",
+  "DOI": "10.1287/mnsc.1070.0844",
+  "ISSN": "0025-1909",
+  "url": "https://pubsonline.informs.org/doi/10.1287/mnsc.1070.0844",
+  "abstractNote": "In this paper, we present a novel quantitative analysis for the strategic planning decision problem of allocating certain available prevention and protection resources to, respectively, reduce the failure probabilities of system safety measures and the total expected loss from a sequence of events. Using an event tree optimization approach, the resulting risk-reduction scenario problem is modeled and then reformulated as a specially structured nonconvex factorable program. We derive a tight linear programming relaxation along with related theoretical insights that serve to lay the foundation for designing a tailored branch-and-bound algorithm that is proven to converge to a global optimum. Computational experience is reported for a hypothetical case study, as well as for several realistic simulated test cases, based on different parameter settings. The results on the simulated test cases demonstrate that the proposed approach dominates the commercial software BARON v7.5 when the latter is applied to solve the original model by more robustly yielding provable optimal solutions that are at an average of 16.6% better in terms of objective function value; and it performs competitively when both models are used to solve the reformulated problem, particularly for larger test instances.",
+  "zoteroItemKey": "UZ7CCLWY",
+  "decodedTitle": "Optimal Allocation of Risk-Reduction Resources in Event Trees",
+  "year": 2008,
+  "tags": [
+    "branch-and-bound",
+    "event trees",
+    "factorable programming",
+    "global optimization",
+    "risk management",
+    "risk reduction",
+    "system safety"
+  ],
+  "sourceCollections": [
+    {
+      "key": "PTATD5DB",
+      "pathNames": [
+        "Export-to-github"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "filename": "Sherali_2008_Optimal_Allocation_of_Risk_Reduc_UZ7CCLWY.pdf",
+      "attachmentKey": "ZU9T5L9D",
+      "attachmentTitle": "PDF",
+      "originalFilename": "Sherali et al. - 2008 - Optimal Allocation of Risk-Reduction Resources in Event Trees.pdf",
+      "contentType": "application/pdf",
+      "bytes": 159432,
+      "sha256": "ea2e606ec38d78de681e37e3e559390a49bc58ab828d5d755add7031e7f1c7c4"
+    }
+  ]
+}

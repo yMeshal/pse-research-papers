@@ -1,0 +1,54 @@
+{
+  "title": "Optimal rail system design with multiple layers of fault and event trees",
+  "itemType": "journalArticle",
+  "creators": [
+    {
+      "firstName": "Chun-Lin",
+      "lastName": "Lu",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Yung-Cheng (Rex)",
+      "lastName": "Lai",
+      "creatorType": "author"
+    }
+  ],
+  "date": "2021-10-08",
+  "publicationTitle": "Journal of Transportation Safety & Security",
+  "volume": "13",
+  "issue": "10",
+  "pages": "1135-1156",
+  "DOI": "10.1080/19439962.2019.1680584",
+  "ISSN": "1943-9962",
+  "url": "https://doi.org/10.1080/19439962.2019.1680584",
+  "abstractNote": "A rail system comprises several subsystems and corresponding components. Each element has its life cycle cost (LCC), reliability, and consequences of failure (as described by historical data or an event tree). Determining the optimal rail system design reveals different trends in these characteristics. This research develops an optimization process using two modules to assist the operator in deciding such optimal design. The conversion module first transforms multiple fault tree layers into a simple structure and avoids nonlinear formulation in the optimization model. Then, the optimal system design module identifies the optimal investment plan for rail systems according to available alternatives. Two empirical cases demonstrate the applicability of the proposed optimization process. The first case proves that the conversion module efficiently transforms a fault tree structure. Note that considering data uncertainty into the failure rate requires additional budget allocation to reduce delay costs under ideal and practical situations. The second case indicates that the optimization model can solve a multi-objective problem while considering the LCC and consequences of failure, as well as assist the operator in deciding the appropriate requirement according to their demand.",
+  "zoteroItemKey": "X3AH2SLH",
+  "decodedTitle": "Optimal rail system design with multiple layers of fault and event trees",
+  "year": 2021,
+  "tags": [
+    "data uncertainty",
+    "event tree",
+    "fault tree",
+    "Rail transportation",
+    "system design"
+  ],
+  "sourceCollections": [
+    {
+      "key": "PTATD5DB",
+      "pathNames": [
+        "Export-to-github"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "filename": "Lu_2021_Optimal_rail_system_design_with_X3AH2SLH.pdf",
+      "attachmentKey": "E8BNMCID",
+      "attachmentTitle": "Full Text PDF",
+      "originalFilename": "Lu and Lai - 2021 - Optimal rail system design with multiple layers of fault and event trees.pdf",
+      "contentType": "application/pdf",
+      "bytes": 2422774,
+      "sha256": "3aa2d893e0390f4508ac5cdbe963c008e1acbdef38d67781ad6d1668b5cb4e68"
+    }
+  ]
+}

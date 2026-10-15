@@ -1,0 +1,53 @@
+{
+  "title": "Importance measures in risk-informed decision making: Ranking, optimisation and configuration control",
+  "itemType": "journalArticle",
+  "creators": [
+    {
+      "firstName": "Jussi K.",
+      "lastName": "Vaurio",
+      "creatorType": "author"
+    }
+  ],
+  "date": "2011-11-01",
+  "publicationTitle": "Reliability Engineering & System Safety",
+  "journalAbbreviation": "Reliability Engineering & System Safety",
+  "volume": "96",
+  "issue": "11",
+  "pages": "1426-1436",
+  "DOI": "10.1016/j.ress.2011.06.012",
+  "ISSN": "0951-8320",
+  "url": "https://www.sciencedirect.com/science/article/pii/S0951832011001311",
+  "abstractNote": "This paper describes roles, extensions and applications of importance measures of components and configurations for making risk-informed decisions relevant to system operations, maintenance and safety. Basic importance measures and their relationships are described for independent and mutually exclusive events and for groups of events associated with common cause failures. The roles of importances are described mainly in two groups of activities: (a) ranking safety significance of systems, structures, components and human actions for preventive safety assurance activities, and (b) making decisions about permissible permanent and temporary configurations and allowed configuration times for regulation, technical specifications and for on-line risk monitoring. Criticality importance and sums of criticalities turn out to be appropriate measures for ranking and optimization. Several advantages are pointed out and consistent ranking of pipe segments for in-service inspection is provided as an example. Risk increase factor and its generalization risk gain are most appropriately used to assess corrective priorities and acceptability of a situation when components are already failed or when planning to take one or more components out of service for maintenance. Precise definitions are introduced for multi-failure configurations and it is shown how they can be assessed under uncertainties, in particular when common cause failures or success states may be involved. A general weighted average method is compared to other candidate methods in benchmark cases. It is the preferable method for prediction when a momentary configuration is known or only partially known. Potential applications and optimization of allowed outage times are described. The results show how to generalize and apply various importance measures to ranking and optimization and how to manage configurations in uncertain multi-failure situations.",
+  "zoteroItemKey": "RPPTRV4I",
+  "decodedTitle": "Importance measures in risk-informed decision making: Ranking, optimisation and configuration control",
+  "year": 2011,
+  "tags": [
+    "Common cause",
+    "Configuration",
+    "Criticality",
+    "Importance",
+    "Optimization",
+    "PSA",
+    "Ranking",
+    "Risk"
+  ],
+  "sourceCollections": [
+    {
+      "key": "PTATD5DB",
+      "pathNames": [
+        "Export-to-github"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "filename": "Vaurio_2011_Importance_measures_in_risk_info_RPPTRV4I.pdf",
+      "attachmentKey": "4VJ92F7S",
+      "attachmentTitle": "ScienceDirect Full Text PDF",
+      "originalFilename": "Vaurio - 2011 - Importance measures in risk-informed decision making Ranking, optimisation and configuration contro.pdf",
+      "contentType": "application/pdf",
+      "bytes": 290169,
+      "sha256": "42d92db353db60337afc33fb93c762bbbf85277641684062ebff84b92bdeba91"
+    }
+  ]
+}

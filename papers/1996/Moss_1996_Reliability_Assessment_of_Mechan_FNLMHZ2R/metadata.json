@@ -1,0 +1,49 @@
+{
+  "title": "Reliability Assessment of Mechanical Systems",
+  "itemType": "journalArticle",
+  "creators": [
+    {
+      "firstName": "T R",
+      "lastName": "Moss",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "J D",
+      "lastName": "Andrews",
+      "creatorType": "author"
+    }
+  ],
+  "date": "1996-10-01",
+  "publicationTitle": "Proceedings of the Institution of Mechanical Engineers, Part E: Journal of Process Mechanical Engineering",
+  "volume": "210",
+  "issue": "3",
+  "pages": "205-216",
+  "DOI": "10.1243/PIME_PROC_1996_210_315_02",
+  "ISSN": "0954-4089",
+  "url": "https://doi.org/10.1243/PIME_PROC_1996_210_315_02",
+  "abstractNote": "The assessment of mechanical systems is not an exact science and predictions can be subject to considerable uncertainty. In this paper the particular problems of mechanical system reliability assessment are discussed and a general methodology presented based on experience from availability studies carried out on offshore and onshore process plant.",
+  "language": "EN",
+  "zoteroItemKey": "FNLMHZ2R",
+  "decodedTitle": "Reliability Assessment of Mechanical Systems",
+  "year": 1996,
+  "tags": [],
+  "sourceCollections": [
+    {
+      "key": "PTATD5DB",
+      "pathNames": [
+        "Export-to-github"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "filename": "Moss_1996_Reliability_Assessment_of_Mechan_FNLMHZ2R.pdf",
+      "attachmentKey": "LNAYDUC7",
+      "attachmentTitle": "Full Text PDF",
+      "originalFilename": "Moss and Andrews - 1996 - Reliability Assessment of Mechanical Systems.pdf",
+      "contentType": "application/pdf",
+      "bytes": 970986,
+      "sha256": "c371b1fe3e0b19dd361cb1d3eb488344caf04dc6c5a19c2d5789aa74a73ba840"
+    }
+  ]
+}

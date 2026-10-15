@@ -1,0 +1,63 @@
+{
+  "title": "Portfolio optimization of safety measures for the prevention of time-dependent accident scenarios",
+  "itemType": "journalArticle",
+  "creators": [
+    {
+      "firstName": "A.",
+      "lastName": "Mancuso",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "M.",
+      "lastName": "Compare",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "A.",
+      "lastName": "Salo",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "E.",
+      "lastName": "Zio",
+      "creatorType": "author"
+    }
+  ],
+  "date": "2019-10-01",
+  "publicationTitle": "Reliability Engineering & System Safety",
+  "journalAbbreviation": "Reliability Engineering & System Safety",
+  "volume": "190",
+  "pages": "106500",
+  "DOI": "10.1016/j.ress.2019.106500",
+  "ISSN": "0951-8320",
+  "url": "https://www.sciencedirect.com/science/article/pii/S0951832018300942",
+  "abstractNote": "This paper presents a methodology to support the selection of optimal portfolios of preventive safety measures for time-dependent accident scenarios. This methodology captures the dynamics of accident scenarios through Dynamic Bayesian Networks which represent the temporal evolution of component failures that can lead to system failure. An optimization model is presented to determine all Pareto optimal portfolios for which the residual risk of the system at different time stages is minimized, subject to budget and technical constraints on the set of feasible portfolios. The resulting portfolios are then analyzed to support the optimal selection of preventive safety measures. We also develop a computationally efficient algorithm for solving the multi-objective optimization model. The method is illustrated by revisiting the accident scenario of a vapour cloud ignition which occurred at Universal Form Clamp in Bellwood (Illinois, U.S.) on 14 June 2006. Results are presented for different cost levels of implementing preventive safety measures, which provides additional management insights.",
+  "zoteroItemKey": "TH3EMZ47",
+  "decodedTitle": "Portfolio optimization of safety measures for the prevention of time-dependent accident scenarios",
+  "year": 2019,
+  "tags": [
+    "Dynamic Bayesian Networks",
+    "Portfolio optimization",
+    "Preventive safety measures",
+    "Risk analysis"
+  ],
+  "sourceCollections": [
+    {
+      "key": "PTATD5DB",
+      "pathNames": [
+        "Export-to-github"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "filename": "Mancuso_2019_Portfolio_optimization_of_safety_TH3EMZ47.pdf",
+      "attachmentKey": "PHRG93FW",
+      "attachmentTitle": "ScienceDirect Full Text PDF",
+      "originalFilename": "Mancuso et al. - 2019 - Portfolio optimization of safety measures for the prevention of time-dependent accident scenarios.pdf",
+      "contentType": "application/pdf",
+      "bytes": 1834095,
+      "sha256": "f19c8d2624c8e46f5772cb885a50f50de4bb7051551a0e832e575f43611f0c7d"
+    }
+  ]
+}

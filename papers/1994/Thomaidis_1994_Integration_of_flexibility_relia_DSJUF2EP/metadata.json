@@ -1,0 +1,49 @@
+{
+  "title": "Integration of flexibility, reliability and maintenance in process synthesis and design",
+  "itemType": "journalArticle",
+  "creators": [
+    {
+      "firstName": "T. V.",
+      "lastName": "Thomaidis",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "E. N.",
+      "lastName": "Pistikopoulos",
+      "creatorType": "author"
+    }
+  ],
+  "date": "1994-01-01",
+  "publicationTitle": "Computers & Chemical Engineering",
+  "journalAbbreviation": "Computers & Chemical Engineering",
+  "volume": "18",
+  "pages": "S259-S263",
+  "DOI": "10.1016/0098-1354(94)80043-X",
+  "ISSN": "0098-1354",
+  "url": "https://www.sciencedirect.com/science/article/pii/009813549480043X",
+  "abstractNote": "In this paper the problem of simultaneously accounting for continuous uncertainty, equipment failures and maintenance policies during the design of processing systems is addressed. Based on analytical tools for quantifying flexibility, reliability and maintenance, a mixed-integer nonlinear programming model is proposed for the overall operability optimization of a process system at minimum cost. It is shown, through the design of a gas transmission network, that the integration of these stochastic operability measures at the early synthesis level results in inherently flexible and reliable process designs.",
+  "series": "European Symposium on Computer Aided Process Engineering—3",
+  "zoteroItemKey": "DSJUF2EP",
+  "decodedTitle": "Integration of flexibility, reliability and maintenance in process synthesis and design",
+  "year": 1994,
+  "tags": [],
+  "sourceCollections": [
+    {
+      "key": "PTATD5DB",
+      "pathNames": [
+        "Export-to-github"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "filename": "Thomaidis_1994_Integration_of_flexibility_relia_DSJUF2EP.pdf",
+      "attachmentKey": "U77EPW2B",
+      "attachmentTitle": "ScienceDirect Full Text PDF",
+      "originalFilename": "Thomaidis and Pistikopoulos - 1994 - Integration of flexibility, reliability and maintenance in process synthesis and design.pdf",
+      "contentType": "application/pdf",
+      "bytes": 404341,
+      "sha256": "330048a481c2e489c79433a3d68d43b0917a8f6c9f13a836006e8ec4193da623"
+    }
+  ]
+}

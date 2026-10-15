@@ -1,0 +1,70 @@
+{
+  "title": "An efficient method for optimal design of large-scale integrated chemical production sites with endogenous uncertainty",
+  "itemType": "journalArticle",
+  "creators": [
+    {
+      "firstName": "Sebastian",
+      "lastName": "Terrazas-Moreno",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Ignacio E.",
+      "lastName": "Grossmann",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "John M.",
+      "lastName": "Wassick",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Scott J.",
+      "lastName": "Bury",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Naoko",
+      "lastName": "Akiya",
+      "creatorType": "author"
+    }
+  ],
+  "date": "2012-02-10",
+  "publicationTitle": "Computers & Chemical Engineering",
+  "journalAbbreviation": "Computers & Chemical Engineering",
+  "volume": "37",
+  "pages": "89-103",
+  "DOI": "10.1016/j.compchemeng.2011.10.005",
+  "ISSN": "0098-1354",
+  "url": "https://www.sciencedirect.com/science/article/pii/S0098135411003061",
+  "abstractNote": "Integrated sites are tightly interconnected networks of large-scale chemical processes. Given the large-scale network structure of these sites, disruptions in any of its nodes, or individual chemical processes, can propagate and disrupt the operation of the whole network. Random process failures that reduce or shut down production capacity are among the most common disruptions. The impact of such disruptive events can be mitigated by adding parallel units and/or intermediate storage. In this paper, we address the design of large-scale, integrated sites considering random process failures. In a previous work (Terrazas-Moreno et al., 2010), we proposed a novel mixed-integer linear programming (MILP) model to maximize the average production capacity of an integrated site while minimizing the required capital investment. The present work deals with the solution of large-scale problem instances for which a strategy is proposed that consists of two elements. On one hand, we use Benders decomposition to overcome the combinatorial complexity of the MILP model. On the other hand, we exploit discrete-rate simulation tools to obtain a relevant reduced sample of failure scenarios or states. We first illustrate this strategy in a small example. Next, we address an industrial case study where we use a detailed simulation model to assess the quality of the design obtained from the MILP model.",
+  "zoteroItemKey": "YJAJB4PM",
+  "decodedTitle": "An efficient method for optimal design of large-scale integrated chemical production sites with endogenous uncertainty",
+  "year": 2012,
+  "tags": [
+    "Benders decomposition",
+    "Bi-criterion optimization",
+    "Endogenous uncertainties",
+    "Integrated sites",
+    "Mixed-integer linear programming",
+    "Process reliability"
+  ],
+  "sourceCollections": [
+    {
+      "key": "PTATD5DB",
+      "pathNames": [
+        "Export-to-github"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "filename": "Terrazas_Moreno_2012_An_efficient_method_for_optimal_YJAJB4PM.pdf",
+      "attachmentKey": "PTA3W6DA",
+      "attachmentTitle": "ScienceDirect Full Text PDF",
+      "originalFilename": "Terrazas-Moreno et al. - 2012 - An efficient method for optimal design of large-scale integrated chemical production sites with endo.pdf",
+      "contentType": "application/pdf",
+      "bytes": 1170592,
+      "sha256": "7cd96bc5ec9de7adbafef4204388648935df27e3d616e26cab462ed9b4d0e6a5"
+    }
+  ]
+}

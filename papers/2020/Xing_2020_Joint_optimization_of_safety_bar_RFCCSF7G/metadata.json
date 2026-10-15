@@ -1,0 +1,61 @@
+{
+  "title": "Joint optimization of safety barriers for enhancing business continuity of nuclear power plants against steam generator tube ruptures accidents",
+  "itemType": "journalArticle",
+  "creators": [
+    {
+      "firstName": "Jinduo",
+      "lastName": "Xing",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Zhiguo",
+      "lastName": "Zeng",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Enrico",
+      "lastName": "Zio",
+      "creatorType": "author"
+    }
+  ],
+  "date": "2020-10-01",
+  "publicationTitle": "Reliability Engineering & System Safety",
+  "journalAbbreviation": "Reliability Engineering & System Safety",
+  "volume": "202",
+  "pages": "107067",
+  "DOI": "10.1016/j.ress.2020.107067",
+  "ISSN": "0951-8320",
+  "url": "https://www.sciencedirect.com/science/article/pii/S0951832020305688",
+  "abstractNote": "In nuclear power plants (NPPs), different types of safety barriers are designed to ensure the safe and continuous operation of the NPP against disruptive events. These safety barriers, although designed to operate in different phases of the accidents evolution, are often optimized separately, without considering their collective effects on preventing disruptions and quickly recovering from the disruptions. This paper develops a joint optimization model for synthetically optimizing safety barriers of different natures, including prevention, mitigation, emergency and recovery barriers to enhance the business continuity of the NPP, considering the threat of steam generator tube rupture (SGTR) accidents. The joint optimization is guided by a business continuity metric called expected business continuity value (EBCV). A physics-of-failure model is developed to describe the crack growth process of the steam generator tube and to model the effect of the prevention barriers, i.e., periodical inspection of the crack length. An event tree model is developed to describe the evolution of the SGTR-initiated accident and to model the effect of the mitigation and emergency barriers. Recovery measures are also considered via a widely-used logarithmic function model. A mixed-integer genetic algorithm (MIGA) is used to obtain optimal solutions of the joint optimization model. The results show that the developed joint optimization model can achieve better performance in terms of business continuity, compared to the conventional methods that optimize the safety barriers separately.",
+  "zoteroItemKey": "RFCCSF7G",
+  "decodedTitle": "Joint optimization of safety barriers for enhancing business continuity of nuclear power plants against steam generator tube ruptures accidents",
+  "year": 2020,
+  "tags": [
+    "Business continuity management (BCM)",
+    "Event tree (ET)",
+    "Joint optimization",
+    "Mixed-integer genetic algorithm (MIGA)",
+    "Nuclear power plant (NPP)",
+    "Safety barrier",
+    "Steam generator tube rupture (SGTR)"
+  ],
+  "sourceCollections": [
+    {
+      "key": "PTATD5DB",
+      "pathNames": [
+        "Export-to-github"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "filename": "Xing_2020_Joint_optimization_of_safety_bar_RFCCSF7G.pdf",
+      "attachmentKey": "57RE6FPN",
+      "attachmentTitle": "ScienceDirect Full Text PDF",
+      "originalFilename": "Xing et al. - 2020 - Joint optimization of safety barriers for enhancing business continuity of nuclear power plants agai.pdf",
+      "contentType": "application/pdf",
+      "bytes": 3062851,
+      "sha256": "2598badd8c6ce41a36e0d82e88a3a752dc32cd53d7528435629cd97cdc5d2cf5"
+    }
+  ]
+}

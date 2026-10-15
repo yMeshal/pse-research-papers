@@ -1,0 +1,54 @@
+{
+  "title": "Comparing Natural Gas Leakage Detection Technologies Using an Open-Source “Virtual Gas Field” Simulator",
+  "itemType": "journalArticle",
+  "creators": [
+    {
+      "firstName": "Chandler E.",
+      "lastName": "Kemp",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Arvind P.",
+      "lastName": "Ravikumar",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Adam R.",
+      "lastName": "Brandt",
+      "creatorType": "author"
+    }
+  ],
+  "date": "2016-04-19",
+  "publicationTitle": "Environmental Science & Technology",
+  "journalAbbreviation": "Environ. Sci. Technol.",
+  "volume": "50",
+  "issue": "8",
+  "pages": "4546-4553",
+  "DOI": "10.1021/acs.est.5b06068",
+  "ISSN": "0013-936X",
+  "url": "https://doi.org/10.1021/acs.est.5b06068",
+  "abstractNote": "We present a tool for modeling the\nperformance of methane leak\ndetection and repair programs that can be used to evaluate the effectiveness of detection technologies and proposed mitigation policies. The tool uses a two-state Markov model to simulate the evolution of methane leakage from an artificial natural gas field. Leaks are created stochastically, drawing from the current understanding of the frequency and size distributions at production facilities. Various leak detection and repair programs can be simulated to determine the rate at which each would identify and repair leaks. Integrating the methane leakage over time enables a meaningful comparison between technologies, using both economic and environmental metrics. We simulate four existing or proposed detection technologies: flame ionization detection, manual infrared camera, automated infrared drone, and distributed detectors. Comparing these four technologies, we found that over 80% of simulated leakage could be mitigated with a positive net present value, although the maximum benefit is realized by selectively targeting larger leaks. Our results show that low-cost leak detection programs can rely on high-cost technology, as long as it is applied in a way that allows for rapid detection of large leaks. Any strategy to reduce leakage should require a careful consideration of the differences between low-cost technologies and low-cost programs.",
+  "zoteroItemKey": "YX8V9QEQ",
+  "decodedTitle": "Comparing Natural Gas Leakage Detection Technologies Using an Open-Source “Virtual Gas Field” Simulator",
+  "year": 2016,
+  "tags": [],
+  "sourceCollections": [
+    {
+      "key": "PTATD5DB",
+      "pathNames": [
+        "Export-to-github"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "filename": "Kemp_2016_Comparing_Natural_Gas_Leakage_De_YX8V9QEQ.pdf",
+      "attachmentKey": "C2CVX28U",
+      "attachmentTitle": "Full Text PDF",
+      "originalFilename": "Kemp et al. - 2016 - Comparing Natural Gas Leakage Detection Technologies Using an Open-Source “Virtual Gas Field” Simula.pdf",
+      "contentType": "application/pdf",
+      "bytes": 1046299,
+      "sha256": "9ed81554a74b76ed81d0e0c68c759251f3892dbd23ca72b3a16d46ad4d5f38ca"
+    }
+  ]
+}

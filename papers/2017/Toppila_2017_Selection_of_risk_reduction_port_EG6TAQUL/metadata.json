@@ -1,0 +1,52 @@
+{
+  "title": "Selection of risk reduction portfolios under interval-valued probabilities",
+  "itemType": "journalArticle",
+  "creators": [
+    {
+      "firstName": "Antti",
+      "lastName": "Toppila",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Ahti",
+      "lastName": "Salo",
+      "creatorType": "author"
+    }
+  ],
+  "date": "2017-07-01",
+  "publicationTitle": "Reliability Engineering & System Safety",
+  "journalAbbreviation": "Reliability Engineering & System Safety",
+  "volume": "163",
+  "pages": "69-78",
+  "DOI": "10.1016/j.ress.2017.02.005",
+  "ISSN": "0951-8320",
+  "url": "https://www.sciencedirect.com/science/article/pii/S0951832017302120",
+  "abstractNote": "A central problem in risk management is that of identifying the optimal combination (or portfolio) of improvements that enhance the reliability of the system most through reducing failure event probabilities, subject to the availability of resources. This optimal portfolio can be sensitive with regard to epistemic uncertainties about the failure events' probabilities. In this paper, we develop an optimization model to support the allocation of resources to improvements that mitigate risks in coherent systems in which interval-valued probabilities defined by lower and upper bounds are employed to capture epistemic uncertainties. Decision recommendations are based on portfolio dominance: a resource allocation portfolio is dominated if there exists another portfolio that improves system reliability (i) at least as much for all feasible failure probabilities and (ii) strictly more for some feasible probabilities. Based on non-dominated portfolios, recommendations about improvements to implement are derived by inspecting in how many non-dominated portfolios a given improvement is contained. We present an exact method for computing the non-dominated portfolios. We also present an approximate method that simplifies the reliability function using total order interactions so that larger problem instances can be solved with reasonable computational effort.",
+  "zoteroItemKey": "EG6TAQUL",
+  "decodedTitle": "Selection of risk reduction portfolios under interval-valued probabilities",
+  "year": 2017,
+  "tags": [
+    "Epistemic uncertainty",
+    "Interval-valued probabilities",
+    "Reliability allocation"
+  ],
+  "sourceCollections": [
+    {
+      "key": "PTATD5DB",
+      "pathNames": [
+        "Export-to-github"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "filename": "Toppila_2017_Selection_of_risk_reduction_port_EG6TAQUL.pdf",
+      "attachmentKey": "JU6PNLRE",
+      "attachmentTitle": "ScienceDirect Full Text PDF",
+      "originalFilename": "Toppila and Salo - 2017 - Selection of risk reduction portfolios under interval-valued probabilities.pdf",
+      "contentType": "application/pdf",
+      "bytes": 528402,
+      "sha256": "d251a9218c9d3cfa769946f13981b81ff5806a46fbec43f36e6fd2eb2ecac12b"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "title": "A Class of stochastic programs with decision dependent uncertainty",
+  "itemType": "journalArticle",
+  "creators": [
+    {
+      "firstName": "Vikas",
+      "lastName": "Goel",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Ignacio E.",
+      "lastName": "Grossmann",
+      "creatorType": "author"
+    }
+  ],
+  "date": "2006-09-01",
+  "publicationTitle": "Mathematical Programming",
+  "journalAbbreviation": "Math. Program.",
+  "volume": "108",
+  "issue": "2",
+  "pages": "355-394",
+  "DOI": "10.1007/s10107-006-0715-7",
+  "ISSN": "1436-4646",
+  "url": "https://doi.org/10.1007/s10107-006-0715-7",
+  "abstractNote": "We address a class of problems where decisions have to be optimized over a time horizon given that the future is uncertain and that the optimization decisions influence the time of information discovery for a subset of the uncertain parameters. The standard approach to formulate stochastic programs is based on the assumption that the stochastic process is independent of the optimization decisions, which is not true for the class of problems under consideration. We present a hybrid mixed-integer disjunctive programming formulation for the stochastic program corresponding to this class of problems and hence extend the stochastic programming framework. A set of theoretical properties that lead to reduction in the size of the model is identified. A Lagrangean duality based branch and bound algorithm is also presented.",
+  "language": "en",
+  "zoteroItemKey": "SN3H6YZV",
+  "decodedTitle": "A Class of stochastic programs with decision dependent uncertainty",
+  "year": 2006,
+  "tags": [
+    "Alse",
+    "Equality Constraint",
+    "Lagrangean Duality",
+    "Scenario Tree",
+    "Stochastic Program"
+  ],
+  "sourceCollections": [
+    {
+      "key": "PTATD5DB",
+      "pathNames": [
+        "Export-to-github"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "filename": "Goel_2006_A_Class_of_stochastic_programs_w_SN3H6YZV.pdf",
+      "attachmentKey": "FZEK39BR",
+      "attachmentTitle": "Full Text PDF",
+      "originalFilename": "Goel and Grossmann - 2006 - A Class of stochastic programs with decision dependent uncertainty.pdf",
+      "contentType": "application/pdf",
+      "bytes": 452822,
+      "sha256": "7495f8cf6fa354a62728fcf42b22668529a1c737ff2c4e1e58913e27449b3e88"
+    }
+  ]
+}

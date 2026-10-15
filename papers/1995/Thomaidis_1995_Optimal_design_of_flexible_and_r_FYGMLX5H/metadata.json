@@ -1,0 +1,59 @@
+{
+  "title": "Optimal design of flexible and reliable process systems",
+  "itemType": "journalArticle",
+  "creators": [
+    {
+      "firstName": "T.V.",
+      "lastName": "Thomaidis",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "E.N.",
+      "lastName": "Pistikopoulos",
+      "creatorType": "author"
+    }
+  ],
+  "date": "1995-06",
+  "publicationTitle": "IEEE Transactions on Reliability",
+  "volume": "44",
+  "issue": "2",
+  "pages": "243-250",
+  "DOI": "10.1109/24.387378",
+  "ISSN": "1558-1721",
+  "url": "https://ieeexplore.ieee.org/document/387378/",
+  "abstractNote": "In the design and operation of chemical process systems, two categories of uncertainty are important: (1) realization of continuous process parameters (product demands, feedstock qualities, reaction kinetics); and (2) discrete states (typically related to equipment availability). This paper presents a general framework for incorporating both types of uncertainty in process system design. A combined flexibility-reliability index (FRI) is introduced to measure the capability of a process system to cope simultaneously with: (1) (stochastic) parameter variations; and (2) equipment failures, by explicitly accounting for process operational interactions and constraints. A design optimization procedure is then proposed for obtaining flexible, reliable process systems at minimum investment cost and maximum average profit; the potential inclusion of maintenance considerations is briefly discussed.<>",
+  "zoteroItemKey": "FYGMLX5H",
+  "decodedTitle": "Optimal design of flexible and reliable process systems",
+  "year": 1995,
+  "tags": [
+    "Bismuth",
+    "Chemical processes",
+    "Chemical products",
+    "Face",
+    "Manufacturing processes",
+    "Pharmaceuticals",
+    "Purification",
+    "Raw materials",
+    "Refining",
+    "Stochastic systems"
+  ],
+  "sourceCollections": [
+    {
+      "key": "PTATD5DB",
+      "pathNames": [
+        "Export-to-github"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "filename": "Thomaidis_1995_Optimal_design_of_flexible_and_r_FYGMLX5H.pdf",
+      "attachmentKey": "LP6KTNM3",
+      "attachmentTitle": "Full Text PDF",
+      "originalFilename": "Thomaidis and Pistikopoulos - 1995 - Optimal design of flexible and reliable process systems.pdf",
+      "contentType": "application/pdf",
+      "bytes": 676501,
+      "sha256": "dc73abe0d1dfab9c2b288a0fa0e1a35e846b5aef2c928094bd12b519aaaeb512"
+    }
+  ]
+}

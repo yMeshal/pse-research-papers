@@ -1,0 +1,62 @@
+{
+  "title": "Selecting Optimal Alternatives and Risk Reduction Strategies in Decision Trees.",
+  "itemType": "journalArticle",
+  "creators": [
+    {
+      "firstName": "Hanif D.",
+      "lastName": "Sherali",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Evrim",
+      "lastName": "Dalkiran",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Theodore S.",
+      "lastName": "Glickman",
+      "creatorType": "author"
+    }
+  ],
+  "date": "2011-05-01",
+  "publicationTitle": "Operations Research",
+  "journalAbbreviation": "Operations Research",
+  "volume": "59",
+  "issue": "3",
+  "pages": "631-647",
+  "DOI": "10.1287/opre.1110.0923",
+  "ISSN": "0030-364X",
+  "url": "https://research.ebsco.com/plink/fb528bd0-5f9e-36b9-a15e-b2ff96a23b9e",
+  "abstractNote": "In this paper we conduct a quantitative analysis for a strategic risk management problem that involves allocating certain available failure-mitigating and consequence-alleviating resources to reduce the failure probabilities of system safety components and subsequent losses, respectively, together with selecting optimal strategic decision alternatives, to minimize the risk or expected loss in the event of a hazardous occurrence. Using a novel decision tree optimization approach to represent the cascading sequences of probabilistic events as controlled by key decisions and investment alternatives, the problem is modeled as a nonconvex mixed-integer 0-1 factorable program. We develop a specialized branch-and-bound algorithm in which lower bounds are computed via tight linear relaxations of the original problem that are constructed by utilizing a polyhedral outer-approximation mechanism in concert with two alternative linearization schemes having different levels of tightness and complexity. We also suggest three alternative branching schemes, each of which is proven to guarantee convergence to a global optimum for the underlying problem. Extensive computational results and sensitivity analyses are presented to provide insights and to demonstrate the efficacy of the proposed algorithm.",
+  "language": "eng",
+  "zoteroItemKey": "EPBC2AHM",
+  "decodedTitle": "Selecting Optimal Alternatives and Risk Reduction Strategies in Decision Trees.",
+  "year": 2011,
+  "tags": [
+    "Algorithms",
+    "Decision theory",
+    "Decision trees",
+    "Mathematical optimization",
+    "Probability theory",
+    "Strategic planning"
+  ],
+  "sourceCollections": [
+    {
+      "key": "PTATD5DB",
+      "pathNames": [
+        "Export-to-github"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "filename": "Sherali_2011_Selecting_Optimal_Alternatives_a_EPBC2AHM.pdf",
+      "attachmentKey": "GBLKEZ5E",
+      "attachmentTitle": "Full text PDF",
+      "originalFilename": "Sherali et al. - 2011 - Selecting Optimal Alternatives and Risk Reduction Strategies in Decision Trees..pdf",
+      "contentType": "application/pdf",
+      "bytes": 534083,
+      "sha256": "9d65a49b42ac7b79a0f27f3d8efa3e21e5ce4a4c5939993d9e6326d676970c09"
+    }
+  ]
+}

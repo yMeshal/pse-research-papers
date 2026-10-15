@@ -1,0 +1,61 @@
+{
+  "title": "Exact MILP Models for Redundancy Allocation with Mixed Components",
+  "itemType": "journalArticle",
+  "creators": [
+    {
+      "firstName": "Jianguang",
+      "lastName": "Feng",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Zhi-Long",
+      "lastName": "Chen",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Ada",
+      "lastName": "Che",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Chengbin",
+      "lastName": "Chu",
+      "creatorType": "author"
+    }
+  ],
+  "date": "2025-09-17",
+  "publicationTitle": "INFORMS Journal on Computing",
+  "DOI": "10.1287/ijoc.2024.0842",
+  "ISSN": "1091-9856",
+  "url": "https://pubsonline.informs.org/doi/10.1287/ijoc.2024.0842",
+  "abstractNote": "The redundancy allocation problem (RAP) aims to find an allocation of redundant components that maximizes system reliability under resource constraints. In this paper, we consider the RAP for complex systems with heterogeneous components, which may have bridges or interconnecting subsystems and are generally more complicated in structure than commonly studied series-parallel systems. A major challenge of the RAP is that the reliability function is nonlinear. To tackle this, we develop six exact mixed integer linear programming (MILP) formulations, which, to our knowledge, are the first of such formulations for the problem. The key idea is to use binary variables and big-M constraints to successively linearize each product term in the reliability function. In addition, we propose a novel tree representation of the reliability function to establish the interconnections between different product terms, which is then used to reduce the number of decision variables and constraints needed in the linearization. We also propose an alternative form of the reliability function that only involves the failure probabilities of subsystems, and leverage this to derive better variable bounds, smaller big-M constants, and simpler formulations. We compare the six MILP formulations by solving them directly using an MILP solver based on three sets of test instances of varying complexity. Results indicate that all formulations achieve optimal solutions quickly for the first set and within reasonable computation times for the second set. For the third set, two formulations can always be solved within a given time limit. Overall, the MILP formulation derived based on the alternative form of the reliability function and a specific type of tree representation scheme performs the best. We also demonstrate that our approach is more robust and scalable than a benchmark branch-and-bound method.\n\nHistory: Accepted by Pascal Van Hentenryck, Area Editor for Computational Modeling: Methods & Analysis.\n\nFunding: This work was supported by National Natural Science Foundation of China [Grants 72310107003, 72471189, 71901176].\n\nSupplemental Material: The software that supports the findings of this study is available within the paper and its Supplemental Information (https://pubsonline.informs.org/doi/suppl/10.1287/ijoc.2024.0842) as well as from the IJOC GitHub software repository (https://github.com/INFORMSJoC/2024.0842). The complete IJOC Software and Data Repository is available at https://informsjoc.github.io/.",
+  "zoteroItemKey": "I89YL582",
+  "decodedTitle": "Exact MILP Models for Redundancy Allocation with Mixed Components",
+  "year": 2025,
+  "tags": [
+    "complex systems",
+    "linearization",
+    "mixed integer linear programming",
+    "redundancy allocation problem",
+    "tree representation"
+  ],
+  "sourceCollections": [
+    {
+      "key": "PTATD5DB",
+      "pathNames": [
+        "Export-to-github"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "filename": "Feng_2025_Exact_MILP_Models_for_Redundancy_I89YL582.pdf",
+      "attachmentKey": "PRUP35C5",
+      "attachmentTitle": "PDF",
+      "originalFilename": "Feng et al. - 2025 - Exact MILP Models for Redundancy Allocation with Mixed Components.pdf",
+      "contentType": "application/pdf",
+      "bytes": 3495838,
+      "sha256": "f5619ca7939e2bd7103984928e7d9e77c6743186c07b3110caa559812071c9f7"
+    }
+  ]
+}

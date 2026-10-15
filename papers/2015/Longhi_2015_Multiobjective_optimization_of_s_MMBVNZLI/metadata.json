@@ -1,0 +1,60 @@
+{
+  "title": "Multiobjective optimization of strategies for operation and testing of low-demand safety instrumented systems using a genetic algorithm and fault trees",
+  "itemType": "journalArticle",
+  "creators": [
+    {
+      "firstName": "Antonio Eduardo Bier",
+      "lastName": "Longhi",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Artur Alves",
+      "lastName": "Pessoa",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Pauli Adriano de Almada",
+      "lastName": "Garcia",
+      "creatorType": "author"
+    }
+  ],
+  "date": "2015-10-01",
+  "publicationTitle": "Reliability Engineering & System Safety",
+  "journalAbbreviation": "Reliability Engineering & System Safety",
+  "volume": "142",
+  "pages": "525-538",
+  "DOI": "10.1016/j.ress.2015.06.010",
+  "ISSN": "0951-8320",
+  "url": "https://www.sciencedirect.com/science/article/pii/S0951832015001854",
+  "abstractNote": "Since low-demand safety instrumented systems (SISs) do not operate continuously, their failures are often only detected when the system is demanded or tested. The conduction of tests, besides adding costs, can raise risks of failure on demand during their execution and also increase the frequency of spurious activation. Additionally, it is often necessary to interrupt production to carry out tests. In light of this scenario, this paper presents a model to optimize strategies for operation and testing of these systems, applying modeling by fault trees associated with optimization by a genetic algorithm. Its main differences are: (i) ability to represent four modes of operation and test them for each SIS subsystem; (ii) ability to represent a SIS that executes more than one safety instrumented function; (iii) ability to keep track of the down-time generated in the production system; and (iv) alteration of a genetic selection mechanism that permits identification of more efficient solutions with smaller influence on the optimization parameters. These aspects are presented by applying this model in three case studies. The results obtained show the applicability of the proposed approach and its potential to help make more informed decisions.",
+  "zoteroItemKey": "MMBVNZLI",
+  "decodedTitle": "Multiobjective optimization of strategies for operation and testing of low-demand safety instrumented systems using a genetic algorithm and fault trees",
+  "year": 2015,
+  "tags": [
+    "Evolutionary optimization",
+    "Fault trees",
+    "Genetic algorithms",
+    "Operation",
+    "Safety instrumented systems",
+    "Testing"
+  ],
+  "sourceCollections": [
+    {
+      "key": "PTATD5DB",
+      "pathNames": [
+        "Export-to-github"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "filename": "Longhi_2015_Multiobjective_optimization_of_s_MMBVNZLI.pdf",
+      "attachmentKey": "9MIH4L2C",
+      "attachmentTitle": "ScienceDirect Full Text PDF",
+      "originalFilename": "Longhi et al. - 2015 - Multiobjective optimization of strategies for operation and testing of low-demand safety instrumente.pdf",
+      "contentType": "application/pdf",
+      "bytes": 4043725,
+      "sha256": "0432f5ea62068141864dbca66d8f496c71401bf975c9e80ecf60f4a590bf0a4b"
+    }
+  ]
+}

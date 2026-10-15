@@ -1,0 +1,49 @@
+{
+  "title": "Design and Maintenance of Multichannel Protective Systems",
+  "itemType": "journalArticle",
+  "creators": [
+    {
+      "firstName": "Yue-Cheng",
+      "lastName": "Liao",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Chuei-Tin",
+      "lastName": "Chang",
+      "creatorType": "author"
+    }
+  ],
+  "date": "2010-11-17",
+  "publicationTitle": "Industrial & Engineering Chemistry Research",
+  "journalAbbreviation": "Ind. Eng. Chem. Res.",
+  "volume": "49",
+  "issue": "22",
+  "pages": "11421-11433",
+  "DOI": "10.1021/ie901818e",
+  "ISSN": "0888-5885",
+  "url": "https://doi.org/10.1021/ie901818e",
+  "abstractNote": "To mitigate the undesirable effects caused by accidents in chemical plants, it is a common practice to install protective systems on processing units operated under hazardous conditions. Because hardware failures are basically random events, the availability of the protective system is highly dependent on its structural properties and also the maintenance programs. The aim of this study is to improve and generalize the current practice1 for generating the design specifications and maintenance policies. Specifically, instead of monitoring only a single condition, in this work, the emergency system status is detected according to the measurements of several different process variables (or “alarm channels”) so as to optimize alarm performance. Because each of these channels can be consist of more than one online sensor, a modified version of the spare-supported corrective maintenance policy is also devised in this study to enhance availability. By solving the corresponding mathematical programming model, the optimal configurations of sensors and shutdown units, the best corrective and preventive maintenance procedures, and alarm/shutdown logic can all be identified automatically. Two examples are provided in this article to demonstrate the feasibility and effectiveness of the proposed approach.",
+  "zoteroItemKey": "VQF27JBD",
+  "decodedTitle": "Design and Maintenance of Multichannel Protective Systems",
+  "year": 2010,
+  "tags": [],
+  "sourceCollections": [
+    {
+      "key": "PTATD5DB",
+      "pathNames": [
+        "Export-to-github"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "filename": "Liao_2010_Design_and_Maintenance_of_Multic_VQF27JBD.pdf",
+      "attachmentKey": "FA6V3RRM",
+      "attachmentTitle": "Full Text PDF",
+      "originalFilename": "Liao and Chang - 2010 - Design and Maintenance of Multichannel Protective Systems.pdf",
+      "contentType": "application/pdf",
+      "bytes": 743951,
+      "sha256": "14a28a5e204832b1a7131b6a4d968a0c32ce50d0ee39b8ae38df5fcc4c9d9bd9"
+    }
+  ]
+}

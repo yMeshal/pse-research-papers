@@ -1,0 +1,55 @@
+{
+  "title": "Towards the incorporation of flexibility, maintenance and safety in process design",
+  "itemType": "journalArticle",
+  "creators": [
+    {
+      "firstName": "T. V.",
+      "lastName": "Thomaidis",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "E. N.",
+      "lastName": "Pistikopoulos",
+      "creatorType": "author"
+    }
+  ],
+  "date": "1995-06-11",
+  "publicationTitle": "Computers & Chemical Engineering",
+  "journalAbbreviation": "Computers & Chemical Engineering",
+  "volume": "19",
+  "pages": "687-692",
+  "DOI": "10.1016/0098-1354(95)87115-2",
+  "ISSN": "0098-1354",
+  "url": "https://www.sciencedirect.com/science/article/pii/0098135495871152",
+  "abstractNote": "This paper presents a method for integrating maintenance and safety aspects in the operability analysis of process systems. A stochastic process model representation is employed accounting for random process variations, equipment, failures and/or malfunctions, external unexpected events as well as different maintenance policies. The effects of events which may result in undesirable or even hazardous conditions is evaluated via a combined flexibility-reliability-safety analysis. This results in the systematic identification and ranking of critical parts of the system; implications for preventive/corrective maintenance and design optimization are discussed.",
+  "series": "European Symposium on Computer Aided Process Engineering\\3-5",
+  "zoteroItemKey": "DR2HXWEQ",
+  "decodedTitle": "Towards the incorporation of flexibility, maintenance and safety in process design",
+  "year": 1995,
+  "tags": [
+    "Flexibility",
+    "Maintenance",
+    "Process Design.",
+    "Reliability",
+    "Safety"
+  ],
+  "sourceCollections": [
+    {
+      "key": "PTATD5DB",
+      "pathNames": [
+        "Export-to-github"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "filename": "Thomaidis_1995_Towards_the_incorporation_of_fle_DR2HXWEQ.pdf",
+      "attachmentKey": "AAN4N525",
+      "attachmentTitle": "ScienceDirect Full Text PDF",
+      "originalFilename": "Thomaidis and Pistikopoulos - 1995 - Towards the incorporation of flexibility, maintenance and safety in process design.pdf",
+      "contentType": "application/pdf",
+      "bytes": 499482,
+      "sha256": "517eb707e3364196c0d31a4b37f2ae50a4cc20c7a0b6e09a6685816f5a437392"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "title": "Mixed integer non-linear programming model for reliable and safer design at an early stage",
+  "itemType": "journalArticle",
+  "creators": [
+    {
+      "firstName": "Daniel",
+      "lastName": "Vázquez",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Rubén",
+      "lastName": "Ruiz-Femenia",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "José A.",
+      "lastName": "Caballero",
+      "creatorType": "author"
+    }
+  ],
+  "date": "2021-04-01",
+  "publicationTitle": "Computers & Chemical Engineering",
+  "journalAbbreviation": "Computers & Chemical Engineering",
+  "volume": "147",
+  "pages": "107256",
+  "DOI": "10.1016/j.compchemeng.2021.107256",
+  "ISSN": "0098-1354",
+  "url": "https://www.sciencedirect.com/science/article/pii/S009813542100034X",
+  "abstractNote": "We present a Mixed Integer Non-Linear Programming (MINLP) model capable of choosing the best design considering economic profit, availability, and safety. The model takes into account the probability of suffering a failure in a year of operation, as well as the revenue generated and the probability of the process units of being in a non-functional state. The inclusion of programmed maintenances of a specified duration is considered in the model, assuming an equal distribution in the maintenances time. The performance of the model is illustrated by small examples to help the reader to better understand the model, before applying it to the methanol synthesis case study, where the economic and safety objectives are represented in a Pareto front. The results showcase the possibility of considering safety during the early design stage.",
+  "zoteroItemKey": "4NWYM9X6",
+  "decodedTitle": "Mixed integer non-linear programming model for reliable and safer design at an early stage",
+  "year": 2021,
+  "tags": [
+    "Mixed integer non-linear programming",
+    "Process safety",
+    "Reliability"
+  ],
+  "sourceCollections": [
+    {
+      "key": "PTATD5DB",
+      "pathNames": [
+        "Export-to-github"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "filename": "Vazquez_2021_Mixed_integer_non_linear_program_4NWYM9X6.pdf",
+      "attachmentKey": "IQEVZNZN",
+      "attachmentTitle": "ScienceDirect Full Text PDF",
+      "originalFilename": "Vázquez et al. - 2021 - Mixed integer non-linear programming model for reliable and safer design at an early stage.pdf",
+      "contentType": "application/pdf",
+      "bytes": 3345318,
+      "sha256": "8633b89a5c49fcc9c9da533842864903a59dca38ca4895f21ae4143ff82f1af9"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "title": "Optimal plant layout considering the safety instrumented system design for hazardous equipment",
+  "itemType": "journalArticle",
+  "creators": [
+    {
+      "firstName": "Julio A.",
+      "lastName": "de Lira-Flores",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Antioco",
+      "lastName": "López-Molina",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Claudia",
+      "lastName": "Gutiérrez-Antonio",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Richart",
+      "lastName": "Vázquez-Román",
+      "creatorType": "author"
+    }
+  ],
+  "date": "2019-04-01",
+  "publicationTitle": "Process Safety and Environmental Protection",
+  "journalAbbreviation": "Process Safety and Environmental Protection",
+  "volume": "124",
+  "pages": "97-120",
+  "DOI": "10.1016/j.psep.2019.01.021",
+  "ISSN": "0957-5820",
+  "url": "https://www.sciencedirect.com/science/article/pii/S095758201831005X",
+  "abstractNote": "The safety of the process plant depends on the adequate separation between the assets and the hazardous units, along with the installation of protection devices. Several mathematical approaches have been proposed to reduce the risk of the explosions through the solution of the facility layout problem, but no model has included the design of the safety instrument systems. In this work, a MINLP approach was developed to solve three issues at the same time: the process equipment layout, the facility layout, and the safety instrumented system design. This approach aims to find the optimal facility layout that minimizes the land cost, the pipeline cost, and the lifecycle cost of each safety instrumented system, reducing the risk of explosions and keeping safety as much as possible the plant assets. The model was applied to find the optimal facility layout of ethylene oxide plant for different tolerable risk frequencies. In this way, this approach provides valuable information during the design stage and substantial support for decision-makers.",
+  "zoteroItemKey": "8DSSBUIA",
+  "decodedTitle": "Optimal plant layout considering the safety instrumented system design for hazardous equipment",
+  "year": 2019,
+  "tags": [
+    "Domino effect",
+    "Optimization",
+    "Plant layout",
+    "Probability of failure on demand",
+    "Safety instrumented system"
+  ],
+  "sourceCollections": [
+    {
+      "key": "PTATD5DB",
+      "pathNames": [
+        "Export-to-github"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "filename": "de_Lira_Flores_2019_Optimal_plant_layout_considering_8DSSBUIA.pdf",
+      "attachmentKey": "I3C8MDBJ",
+      "attachmentTitle": "ScienceDirect Full Text PDF",
+      "originalFilename": "de Lira-Flores et al. - 2019 - Optimal plant layout considering the safety instrumented system design for hazardous equipment.pdf",
+      "contentType": "application/pdf",
+      "bytes": 3204825,
+      "sha256": "3b53e3724004bea94edc28c4621dcf36e17c82622c08400ad73fd1de2e325e6a"
+    }
+  ]
+}
