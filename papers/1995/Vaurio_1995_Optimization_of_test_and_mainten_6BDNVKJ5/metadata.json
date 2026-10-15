@@ -1,0 +1,44 @@
+{
+  "title": "Optimization of test and maintenance intervals based on risk and cost",
+  "itemType": "journalArticle",
+  "creators": [
+    {
+      "firstName": "J. K.",
+      "lastName": "Vaurio",
+      "creatorType": "author"
+    }
+  ],
+  "date": "1995-01-01",
+  "publicationTitle": "Reliability Engineering & System Safety",
+  "journalAbbreviation": "Reliability Engineering & System Safety",
+  "volume": "49",
+  "issue": "1",
+  "pages": "23-36",
+  "DOI": "10.1016/0951-8320(95)00035-Z",
+  "ISSN": "0951-8320",
+  "url": "https://www.sciencedirect.com/science/article/pii/095183209500035Z",
+  "abstractNote": "A general procedure is presented for optimizing the test and maintenance intervals of safety related systems and components. The method is based on minimizing the total plant-level cost under the constraint that the total accident frequency (risk) remains below a set criterion. The measure of risk is the time-average value of an accident rate. The probabilities of component failures and other basic events are linear functions or inversely proportional to the test or maintenance intervals. Human errors and common cause failures are included in the formalism. Analytical results are obtained for single components and simple systems while a numerical procedure is given for obtaining optimal intervals for complex plants with multiple systems and initiating events.",
+  "zoteroItemKey": "6BDNVKJ5",
+  "decodedTitle": "Optimization of test and maintenance intervals based on risk and cost",
+  "year": 1995,
+  "tags": [],
+  "sourceCollections": [
+    {
+      "key": "PTATD5DB",
+      "pathNames": [
+        "Export-to-github"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "filename": "Vaurio_1995_Optimization_of_test_and_mainten_6BDNVKJ5.pdf",
+      "attachmentKey": "DLNYD426",
+      "attachmentTitle": "ScienceDirect Full Text PDF",
+      "originalFilename": "Vaurio - 1995 - Optimization of test and maintenance intervals based on risk and cost.pdf",
+      "contentType": "application/pdf",
+      "bytes": 1342545,
+      "sha256": "ff70023e53526eda13c0b8ad0329ad09cf735fcd29c74b4548c148bdf0d30ca2"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "title": "Safety optimization: a combination of fault tree analysis and optimization techniques",
+  "itemType": "conferencePaper",
+  "creators": [
+    {
+      "firstName": "F.",
+      "lastName": "Ortmeier",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "W.",
+      "lastName": "Reif",
+      "creatorType": "author"
+    }
+  ],
+  "date": "2004-06",
+  "pages": "651-658",
+  "DOI": "10.1109/DSN.2004.1311935",
+  "url": "https://ieeexplore.ieee.org/document/1311935",
+  "abstractNote": "We present a new form of quantitative safety analysis -safety optimization. This method is a combination of fault tree analysis (FTA) and mathematical optimization techniques. With the use of the results of FTA, statistics, and a quantification of the costs of hazards, it allows to find the optimal configuration of a given system with respect to opposed safety requirements. Furthermore, the system may not only be examined for safety, but usability as well. We illustrate this method on a real-world case study: the height control system of the Elbtunnel in Hamburg. Safety optimization showed some significant problems in trustworthiness of the system, yielded optimal values for configuration of free parameters and showed possible modifications to improve the system.",
+  "conferenceName": "International Conference on Dependable Systems and Networks, 2004",
+  "proceedingsTitle": "International Conference on Dependable Systems and Networks, 2004",
+  "zoteroItemKey": "B5VHYSRG",
+  "decodedTitle": "Safety optimization: a combination of fault tree analysis and optimization techniques",
+  "year": 2004,
+  "tags": [
+    "Control systems",
+    "Cost function",
+    "Fault trees",
+    "Hazards",
+    "Mathematics",
+    "Optimization methods",
+    "Safety",
+    "Statistical analysis",
+    "Statistics",
+    "US Department of Transportation"
+  ],
+  "sourceCollections": [
+    {
+      "key": "PTATD5DB",
+      "pathNames": [
+        "Export-to-github"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "filename": "Ortmeier_2004_Safety_optimization_a_combinatio_B5VHYSRG.pdf",
+      "attachmentKey": "HMVKYYNW",
+      "attachmentTitle": "Full Text PDF",
+      "originalFilename": "Ortmeier and Reif - 2004 - Safety optimization a combination of fault tree analysis and optimization techniques.pdf",
+      "contentType": "application/pdf",
+      "bytes": 422040,
+      "sha256": "0ad71ae2e01bd794e83615c5498ddb87f6764f35b58d65448e992d17c88b9cbb"
+    }
+  ]
+}

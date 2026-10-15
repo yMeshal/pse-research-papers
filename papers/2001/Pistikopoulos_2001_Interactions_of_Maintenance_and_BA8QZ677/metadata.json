@@ -1,0 +1,59 @@
+{
+  "title": "Interactions of Maintenance and Production Planning for Multipurpose Process Plants&#xe5f8;A System Effectiveness Approach",
+  "itemType": "journalArticle",
+  "creators": [
+    {
+      "firstName": "Efstratios N.",
+      "lastName": "Pistikopoulos",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Constantinos G.",
+      "lastName": "Vassiliadis",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Janne",
+      "lastName": "Arvela",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Lazaros G.",
+      "lastName": "Papageorgiou",
+      "creatorType": "author"
+    }
+  ],
+  "date": "2001-07-11",
+  "publicationTitle": "Industrial & Engineering Chemistry Research",
+  "journalAbbreviation": "Ind. Eng. Chem. Res.",
+  "volume": "40",
+  "issue": "14",
+  "pages": "3195-3207",
+  "DOI": "10.1021/ie000431q",
+  "ISSN": "0888-5885",
+  "url": "https://doi.org/10.1021/ie000431q",
+  "abstractNote": "Process design and operations are typically concerned with the optimal selection, design, and\nefficient utilization of assets and resources over a time horizon of interest. The degree of\nutilization of process plant components critically depends on the availability level of equipment\ncomponents. These availability levels are mainly associated with equipment reliability, failure\ncharacteristics, and maintenance policies. This paper presents a system effectiveness optimization\nframework for multipurpose plants that involves a novel preventive maintenance model coupled\nwith a multiperiod planning model. This provides the basis for simultaneously identifying\nproduction and maintenance policies by exploiting (i) opportunities to perform preventive\nmaintenance during equipment idle time and (ii) flexibility in selecting different production\nroutes to potentially mitigate the adverse effects of equipment failure on the production plan.\nExtensions to include design decisions are also discussed. All problems are formulated as mixed\ninteger linear programming (MILP) models, and their applicability is demonstrated by a number\nof illustrative examples.",
+  "zoteroItemKey": "BA8QZ677",
+  "decodedTitle": "Interactions of Maintenance and Production Planning for Multipurpose Process PlantsA System Effectiveness Approach",
+  "year": 2001,
+  "tags": [],
+  "sourceCollections": [
+    {
+      "key": "PTATD5DB",
+      "pathNames": [
+        "Export-to-github"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "filename": "Pistikopoulos_2001_Interactions_of_Maintenance_and_BA8QZ677.pdf",
+      "attachmentKey": "WMMKHN3I",
+      "attachmentTitle": "Full Text PDF",
+      "originalFilename": "Pistikopoulos et al. - 2001 - Interactions of Maintenance and Production Planning for Multipurpose Process Plants&#xe5f8;A System.pdf",
+      "contentType": "application/pdf",
+      "bytes": 167259,
+      "sha256": "f834b9eeadd9e17952b4715feec1c41845582f4466d6aed0171eb08ed1a4b0bb"
+    }
+  ]
+}

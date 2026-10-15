@@ -1,0 +1,50 @@
+{
+  "title": "Optimal retrofit design for improving process flexibility in linear systems",
+  "itemType": "journalArticle",
+  "creators": [
+    {
+      "firstName": "E. N.",
+      "lastName": "Pistikopoulos",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "I. E.",
+      "lastName": "Grossmann",
+      "creatorType": "author"
+    }
+  ],
+  "date": "1988-07-01",
+  "publicationTitle": "Computers & Chemical Engineering",
+  "journalAbbreviation": "Computers & Chemical Engineering",
+  "volume": "12",
+  "issue": "7",
+  "pages": "719-731",
+  "DOI": "10.1016/0098-1354(88)80010-3",
+  "ISSN": "0098-1354",
+  "url": "https://www.sciencedirect.com/science/article/pii/0098135488800103",
+  "abstractNote": "In this paper the problem of optimally redesigning an existing process to increase its flexibility is addressed. Assuming a linear model for the process, a general strategy is proposed which determines first the optimal parametric changes and then identifies the optimal structural modifications. Basic analytical properties of flexibility are presented with which very efficient reduced LP and MILP formulations can be developed that include explicit constraints for flexibility. Also, trade-off curves relating flexibility to retrofit cost can easily be generated to provide information on the cost of flexibility. Examples are presented to illustrate the proposed procedures.",
+  "series": "Special Issue on Process Systems Engineering",
+  "zoteroItemKey": "I2EZHJI5",
+  "decodedTitle": "Optimal retrofit design for improving process flexibility in linear systems",
+  "year": 1988,
+  "tags": [],
+  "sourceCollections": [
+    {
+      "key": "PTATD5DB",
+      "pathNames": [
+        "Export-to-github"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "filename": "Pistikopoulos_1988_Optimal_retrofit_design_for_impr_I2EZHJI5.pdf",
+      "attachmentKey": "AF2JT4IT",
+      "attachmentTitle": "ScienceDirect Full Text PDF",
+      "originalFilename": "Pistikopoulos and Grossmann - 1988 - Optimal retrofit design for improving process flexibility in linear systems.pdf",
+      "contentType": "application/pdf",
+      "bytes": 1382431,
+      "sha256": "09100a4a5b1e32be98846db10716a32cab427767f06b26a85dcea0f098019b9c"
+    }
+  ]
+}

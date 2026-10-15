@@ -1,0 +1,52 @@
+{
+  "title": "A mathematical programming approach to generate optimal system configurations and maintenance policies of multichannel multilayer protective systems",
+  "itemType": "journalArticle",
+  "creators": [
+    {
+      "name": "Chuei-Tin Chang",
+      "creatorType": "author"
+    },
+    {
+      "name": "Yue-Cheng Liao",
+      "creatorType": "author"
+    },
+    {
+      "name": "Kuo-Hwa Liang",
+      "creatorType": "author"
+    },
+    {
+      "name": "Edwin Wibisono",
+      "creatorType": "author"
+    }
+  ],
+  "date": "April 2011",
+  "publicationTitle": "Chemical Engineering Transactions",
+  "volume": "24",
+  "pages": "259–264",
+  "DOI": "10.3303/CET1124044",
+  "url": "https://doi.org/10.3303/CET1124044",
+  "abstractNote": "In order to mitigate the undesirable effects caused by accidents in chemical plants, it is a common practice to install protective systems on processing units operated under hazardous conditions. The aim of this study is to improve and generalize the current practice for determining the design specifications and maintenance policies of multichannel and/or multilayer protective schemes. A spare-supported corrective maintenance policy is devised in this study to enhance the sensor availability, while a preventive strategy is adopted to check/replace every shutdown unit. By solving an integer program, the optimal configurations of sensors and shutdown units, the best corrective and preventive maintenance policies and alarm/shutdown logics can all be identified automatically.",
+  "zoteroItemKey": "S99UD35V",
+  "decodedTitle": "A mathematical programming approach to generate optimal system configurations and maintenance policies of multichannel multilayer protective systems",
+  "year": 2011,
+  "tags": [],
+  "sourceCollections": [
+    {
+      "key": "PTATD5DB",
+      "pathNames": [
+        "Export-to-github"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "filename": "Chuei_Tin_Chang_2011_A_mathematical_programming_appro_S99UD35V.pdf",
+      "attachmentKey": "389HLYK8",
+      "attachmentTitle": "PDF",
+      "originalFilename": "Chuei-Tin Chang et al. - 2011 - A mathematical programming approach to generate optimal system configurations and maintenance polici.pdf",
+      "contentType": "application/pdf",
+      "bytes": 696215,
+      "sha256": "c165fa826f9a3ddb838ae99522b76fcdfe9ec263d02bfba1d36bd64f97b1a1bc"
+    }
+  ]
+}

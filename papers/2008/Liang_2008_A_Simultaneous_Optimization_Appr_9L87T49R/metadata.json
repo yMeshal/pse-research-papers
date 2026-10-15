@@ -1,0 +1,49 @@
+{
+  "title": "A Simultaneous Optimization Approach To Generate Design Specifications and Maintenance Policies for the Multilayer Protective Systems in Chemical Processes",
+  "itemType": "journalArticle",
+  "creators": [
+    {
+      "firstName": "Kuo-Hwa",
+      "lastName": "Liang",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Chuei-Tin",
+      "lastName": "Chang",
+      "creatorType": "author"
+    }
+  ],
+  "date": "2008-08-06",
+  "publicationTitle": "Industrial & Engineering Chemistry Research",
+  "journalAbbreviation": "Ind. Eng. Chem. Res.",
+  "volume": "47",
+  "issue": "15",
+  "pages": "5543-5555",
+  "DOI": "10.1021/ie071188z",
+  "ISSN": "0888-5885",
+  "url": "https://doi.org/10.1021/ie071188z",
+  "abstractNote": "Generally speaking, a protective system is adopted to perform two basic functions, i.e., alarm and shutdown. The subsystem to perform the former function is equipped with one or more independent sensors. On the basis of the online measurements of these sensors, Boolean logic is applied to determine whether or not alarm signal(s) should be issued. The subsystem for the latter task is usually configured with solenoid valves. In response to the aforementioned signal(s), these valves are energized (or de-energized) to carry out the required shutdown operation. Since the hardware failures are basically random events, the reliability (or availability) of a protective system is highly dependent upon its structural characteristics and also maintenance policies. Traditionally, the alarm logic and shutdown configuration are synthesized according to experience and the maintenance scheme is also established on an ad hoc basis. The aim of this study is to develop an integrated mathematical programming model to minimize the total expected expenditure, i.e., the sum of the capital investments, the expected maintenance costs, and the expected losses due to system failures. From the optimal solution, one should be able to produce the design specifications for every protection layer, i.e., (1) the number of sensors and the corresponding alarm logic, (2) the number of valves and the corresponding shutdown configuration, and (3) the needed repair/replacement policies. In this work, the sensors and valves are assumed to be maintained respectively with the corrective and preventive strategies. Thus, the optimal number of spare sensors stored offline and the best inspection interval for each valve can also be determined by solving this model. Extensive case studies have been carried out to demonstrate the feasibility and effectiveness of the proposed approach.",
+  "zoteroItemKey": "9L87T49R",
+  "decodedTitle": "A Simultaneous Optimization Approach To Generate Design Specifications and Maintenance Policies for the Multilayer Protective Systems in Chemical Processes",
+  "year": 2008,
+  "tags": [],
+  "sourceCollections": [
+    {
+      "key": "PTATD5DB",
+      "pathNames": [
+        "Export-to-github"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "filename": "Liang_2008_A_Simultaneous_Optimization_Appr_9L87T49R.pdf",
+      "attachmentKey": "89EXKPKD",
+      "attachmentTitle": "Full Text PDF",
+      "originalFilename": "Liang and Chang - 2008 - A Simultaneous Optimization Approach To Generate Design Specifications and Maintenance Policies for.pdf",
+      "contentType": "application/pdf",
+      "bytes": 211371,
+      "sha256": "86e76839dde440f15b3e04632873ca2ec05ea652f0ca24d045498852314e7e94"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "title": "Portfolio optimization of safety measures for reducing risks in nuclear systems",
+  "itemType": "journalArticle",
+  "creators": [
+    {
+      "firstName": "A.",
+      "lastName": "Mancuso",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "M.",
+      "lastName": "Compare",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "A.",
+      "lastName": "Salo",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "E.",
+      "lastName": "Zio",
+      "creatorType": "author"
+    }
+  ],
+  "date": "2017-11-01",
+  "publicationTitle": "Reliability Engineering & System Safety",
+  "journalAbbreviation": "Reliability Engineering & System Safety",
+  "volume": "167",
+  "pages": "20-29",
+  "DOI": "10.1016/j.ress.2017.05.005",
+  "ISSN": "0951-8320",
+  "url": "https://www.sciencedirect.com/science/article/pii/S0951832016305051",
+  "abstractNote": "In the framework of Probabilistic Risk Assessment (PRA), we develop a method to support the selection of cost-effective portfolios of safety measures. This method provides a systemic approach to determining the optimal portfolio of safety measures that minimizes the risk of the system and thus provides an alternative to using risk importance measures for guiding the selection of safety measures. We represent combinations of events leading to system failure with Bayesian Belief Networks (BBNs) which can be derived from traditional Fault Trees (FTs) and are capable of encoding event dependencies and multi-state failure behaviours. We also develop a computationally efficient enumeration algorithm to identify which combinations (portfolios) of safety measures minimize the risk of failure at different costs of implementing the safety measures. The method is illustrated by revisiting an earlier case study concerning the airlock system of a CANDU Nuclear Power Plant (NPP). The comparison of results with those of choosing safety measures based on risk importance measures shows that our approach leads to considerably lower residual risk at different cost levels.",
+  "series": "Special Section: Applications of Probabilistic Graphical Models in Dependability, Diagnosis and Prognosis",
+  "zoteroItemKey": "39IS5MZL",
+  "decodedTitle": "Portfolio optimization of safety measures for reducing risks in nuclear systems",
+  "year": 2017,
+  "tags": [
+    "Bayesian Belief Networks",
+    "Portfolio optimization",
+    "Risk analysis",
+    "Risk importance measures",
+    "Safety barriers"
+  ],
+  "sourceCollections": [
+    {
+      "key": "PTATD5DB",
+      "pathNames": [
+        "Export-to-github"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "filename": "Mancuso_2017_Portfolio_optimization_of_safety_39IS5MZL.pdf",
+      "attachmentKey": "7VC5F7AD",
+      "attachmentTitle": "ScienceDirect Full Text PDF",
+      "originalFilename": "Mancuso et al. - 2017 - Portfolio optimization of safety measures for reducing risks in nuclear systems.pdf",
+      "contentType": "application/pdf",
+      "bytes": 1378798,
+      "sha256": "66931a4d4eccb1ac99876d56df5c7cc5a0538d17eef1e2a06ad07f89020b3a2f"
+    }
+  ]
+}

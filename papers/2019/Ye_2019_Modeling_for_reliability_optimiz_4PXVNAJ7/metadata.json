@@ -1,0 +1,64 @@
+{
+  "title": "Modeling for reliability optimization of system design and maintenance based on Markov chain theory",
+  "itemType": "journalArticle",
+  "creators": [
+    {
+      "firstName": "Yixin",
+      "lastName": "Ye",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Ignacio E.",
+      "lastName": "Grossmann",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Jose M.",
+      "lastName": "Pinto",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Sivaraman",
+      "lastName": "Ramaswamy",
+      "creatorType": "author"
+    }
+  ],
+  "date": "2019-05-08",
+  "publicationTitle": "Computers & Chemical Engineering",
+  "journalAbbreviation": "Computers & Chemical Engineering",
+  "volume": "124",
+  "pages": "381-404",
+  "DOI": "10.1016/j.compchemeng.2019.02.016",
+  "ISSN": "0098-1354",
+  "url": "https://www.sciencedirect.com/science/article/pii/S0098135418308548",
+  "abstractNote": "This paper proposes an MINLP model that represents the stochastic process of system failures and repairs as a continuous-time Markov chain, based on which it optimizes the selection of redundancy and the frequency of inspection and maintenance tasks for maximum profit. The model explicitly accounts for every possible state of the system. Effective decomposition and scenario reduction methods are also proposed. A small example with two processing stage is solved to demonstrate the impact of incorporating maintenance considerations. A decomposition method and a scenario reduction method are applied to this example and are shown to drastically reduce the computational effort. A larger example with four stages, which is not directly solvable, is also successfully solved using the proposed algorithm. Lastly, we show that the proposed model and algorithms are capable of solving a practical problem based on the air separation process example that motivated our work, which features multiple stages, potential units and failure modes.",
+  "zoteroItemKey": "4PXVNAJ7",
+  "decodedTitle": "Modeling for reliability optimization of system design and maintenance based on Markov chain theory",
+  "year": 2019,
+  "tags": [
+    "Maintenance",
+    "Markov chain",
+    "MINLP",
+    "Optimization",
+    "Reliability design"
+  ],
+  "sourceCollections": [
+    {
+      "key": "PTATD5DB",
+      "pathNames": [
+        "Export-to-github"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "filename": "Ye_2019_Modeling_for_reliability_optimiz_4PXVNAJ7.pdf",
+      "attachmentKey": "4ZEFK5FT",
+      "attachmentTitle": "ScienceDirect Full Text PDF",
+      "originalFilename": "Ye et al. - 2019 - Modeling for reliability optimization of system design and maintenance based on Markov chain theory.pdf",
+      "contentType": "application/pdf",
+      "bytes": 4814763,
+      "sha256": "cdba8a07932d589ee590cb979e1f57baad4304ff3b7347840810eaf538f24cd2"
+    }
+  ]
+}

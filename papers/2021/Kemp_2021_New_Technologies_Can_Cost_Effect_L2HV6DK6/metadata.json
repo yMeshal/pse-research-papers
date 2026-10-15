@@ -1,0 +1,49 @@
+{
+  "title": "New Technologies Can Cost Effectively Reduce Oil and Gas Methane Emissions, but Policies Will Require Careful Design to Establish Mitigation Equivalence",
+  "itemType": "journalArticle",
+  "creators": [
+    {
+      "firstName": "Chandler E.",
+      "lastName": "Kemp",
+      "creatorType": "author"
+    },
+    {
+      "firstName": "Arvind P.",
+      "lastName": "Ravikumar",
+      "creatorType": "author"
+    }
+  ],
+  "date": "2021-07-06",
+  "publicationTitle": "Environmental Science & Technology",
+  "journalAbbreviation": "Environ. Sci. Technol.",
+  "volume": "55",
+  "issue": "13",
+  "pages": "9140-9149",
+  "DOI": "10.1021/acs.est.1c03071",
+  "ISSN": "0013-936X",
+  "url": "https://doi.org/10.1021/acs.est.1c03071",
+  "abstractNote": "Reducing methane emissions from oil\nand gas systems is a central\ncomponent of US and international climate policy. Leak detection and repair (LDAR) programs using optical gas imaging (OGI)-based surveys are routinely used to mitigate fugitive emissions or leaks. Recently, new technologies and platforms such as planes, drones, and satellites promise more cost-effective mitigation than existing approaches. To be approved for use in LDAR programs, new technologies must demonstrate emissions mitigation equivalent to existing approaches. In this work, we use the FEAST modeling tool to (a) identify cost vs mitigation trade-offs that arise from using new technologies and (b) provide a framework for effective design of alternative LDAR programs. We identify several critical insights. First, LDAR programs can trade sensitivity for speed without sacrificing mitigation outcomes. Second, low sensitivity or high detection threshold technologies have an effective upper bound on achievable mitigation that is independent of the survey frequency. Third, the cost effectiveness of tiered LDAR programs using site-level detection technologies depends on their ability to distinguish leaks from routine venting. Finally, “technology equivalence”\nbased on mitigation outcomes differs across basins and should be evaluated independently. The FEAST model will enable operators and regulators to systematically evaluate new technologies in next-generation LDAR programs.",
+  "zoteroItemKey": "L2HV6DK6",
+  "decodedTitle": "New Technologies Can Cost Effectively Reduce Oil and Gas Methane Emissions, but Policies Will Require Careful Design to Establish Mitigation Equivalence",
+  "year": 2021,
+  "tags": [],
+  "sourceCollections": [
+    {
+      "key": "PTATD5DB",
+      "pathNames": [
+        "Export-to-github"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "filename": "Kemp_2021_New_Technologies_Can_Cost_Effect_L2HV6DK6.pdf",
+      "attachmentKey": "ZQZ7MPTL",
+      "attachmentTitle": "Full Text PDF",
+      "originalFilename": "Kemp and Ravikumar - 2021 - New Technologies Can Cost Effectively Reduce Oil and Gas Methane Emissions, but Policies Will Requir.pdf",
+      "contentType": "application/pdf",
+      "bytes": 2015039,
+      "sha256": "69cfd742b46a19837f5f8199d2242919af6981a2b9fa469f391f19e466234ef3"
+    }
+  ]
+}
